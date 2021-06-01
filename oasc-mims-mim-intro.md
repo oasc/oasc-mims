@@ -71,19 +71,66 @@ Implementation can be different, as long as crucial interoperability points in a
         </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><b>OASC MIM4</b>
+      </td>
+      <td style="text-align:center">&#x1F4A1;
+        <br />Work item</td>
+      <td style="text-align:left">Personal Data Management</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>OASC MIM5</b>
+      </td>
+      <td style="text-align:center">
+        <p>&#x1F4A1;</p>
+        <p>Work item</p>
+      </td>
+      <td style="text-align:left">Fair Artificial Intelligence</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>OASC MIM6</b>
+      </td>
+      <td style="text-align:center">&#x1F4A1;
+        <br />Work item</td>
+      <td style="text-align:left">Security</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>OASC MIM7</b>
+      </td>
+      <td style="text-align:center">
+        <p>&#x1F4A1;</p>
+        <p>Work item</p>
+      </td>
+      <td style="text-align:left">Geospatial</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>OASC MIM8</b>
+      </td>
+      <td style="text-align:center">
+        <p>&#x1F4A1;</p>
+        <p>Work item</p>
+      </td>
+      <td style="text-align:left">Indicators</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>OASC MIM9</b>
+      </td>
+      <td style="text-align:center">&#x1F4A1;
+        <br />Work item</td>
+      <td style="text-align:left">Analytics</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
-
-{% hint style="info" %}
-The following MIMs have been adopted as Work Items and are currently being prepared for formal adoption at the OASC General Assembly of 2021:
-
-* OASC MIM4: Personal Data Management
-* OASC MIM5: Fair Artificial Intelligence
-
-The following MIMs are being tentatively prepared for consideration and possible adoption as Work Items at the  at the OASC General Assembly of 2021:
-
-* OASC MIM6: Security
-* OASC MIM7: Geospatial Information
-* OASC MIM8: Circular Resource Monitoring
-{% endhint %}
 
