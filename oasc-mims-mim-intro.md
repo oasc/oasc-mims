@@ -87,8 +87,8 @@ Implementation can be different, as long as crucial interoperability points in a
         <p>&#x1F4A1;</p>
         <p>Work item</p>
       </td>
+      <td style="text-align:left">Transparency</td>
       <td style="text-align:left">Fair Artificial Intelligence</td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@ Implementation can be different, as long as crucial interoperability points in a
       <td style="text-align:center">&#x1F4A1;
         <br />Work item</td>
       <td style="text-align:left">Security</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Security management</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -107,8 +107,8 @@ Implementation can be different, as long as crucial interoperability points in a
         <p>&#x1F4A1;</p>
         <p>Work item</p>
       </td>
-      <td style="text-align:left">Geospatial</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Places</td>
+      <td style="text-align:left">Geospatial information management</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@ Implementation can be different, as long as crucial interoperability points in a
         <p>Work item</p>
       </td>
       <td style="text-align:left">Indicators</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Ecosystem indicator management</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
