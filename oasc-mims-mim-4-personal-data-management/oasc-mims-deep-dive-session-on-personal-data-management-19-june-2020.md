@@ -1,6 +1,6 @@
 # OASC MIMs : Deep Dive Session on Personal Data Management - 19 June 2020
 
-![](../.gitbook/assets/91488304%20%281%29.png)
+![](../.gitbook/assets/86638624%20%281%29.png)
 
 ## Recording of the session <a id="DeepDiveSessiononPersonalDataManagement-19June2020-Recordingofthesession"></a>
 

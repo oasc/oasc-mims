@@ -30,7 +30,7 @@ We believe OASC provides a forum through which we can build common European stan
 
 ## Scope—minimum set of requirements <a id="MIM4:PersonalDataManagement-Scope&#x2014;minimumsetofrequirements"></a>
 
-We believe that MyData principles provide a recognized and solid ground for advancing minimal interoperability mechanisms \(MIMs\) for personal data management. MyData stack\[2\] \(see Figure 1\) contains the necessary technical building blocks for implementing personal data management. A critical layer is the management of data sharing agreements \(layer 2\). In addition to specific user consent, along the GDPR regulation\[3\], it should support processing based on contract, legal obligation, interests of the data subject, public interest, and other legitimate reasons.![](../.gitbook/assets/30507021.png)
+We believe that MyData principles provide a recognized and solid ground for advancing minimal interoperability mechanisms \(MIMs\) for personal data management. MyData stack\[2\] \(see Figure 1\) contains the necessary technical building blocks for implementing personal data management. A critical layer is the management of data sharing agreements \(layer 2\). In addition to specific user consent, along the GDPR regulation\[3\], it should support processing based on contract, legal obligation, interests of the data subject, public interest, and other legitimate reasons.![](../.gitbook/assets/30212123.png)
 
 This stack is realized by MyData operators that a person can then use to control which service providers can have access to his/her data and for what purpose. In practice, there will be several MyData operators. For example, considering the city context, each city could operate as a MyData operator.
 
