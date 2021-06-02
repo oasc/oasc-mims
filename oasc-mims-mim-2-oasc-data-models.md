@@ -43,7 +43,13 @@
 
 ~~The data models guarantee that we can disseminate and scale up a common data lingua franca based on shared data models.~~
 
-### Recommended Specifications <a id="MIM2:OASCDataModels-RecommendedSpecifications"></a>
+## Capabilities
+
+Harmonization
+
+## Specification
+
+Recommended specifications
 
 * NGSI-LD compliant data models for aspects of the smart city have been defined by organisations and projects, including OASC, FIWARE, GSMA and the SynchroniCity project and there is an ongoing joint activity of TM Forum and FIWARE to specify more.
 * Existing data models and ontologies, e.g. the SAREF \(Smart Applications REFerence ontology\) standard by ETSI/oneM2M, can be mapped for use with NGSI-LD by identifying what are entities, properties and relationships, which can be managed and requested by the NGSI-LD API.
