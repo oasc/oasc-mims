@@ -2,9 +2,9 @@
 
 
 
-{% page-ref page="oasc-mims-mim-intro.md" %}
+{% page-ref page="oasc-mims-introduction.md" %}
 
-{% page-ref page="oasc-governance.md" %}
+{% page-ref page="oasc-mims-governance.md" %}
 
 {% page-ref page="oasc-mim-1-context.md" %}
 
@@ -26,9 +26,9 @@
 
 {% page-ref page="oasc-mim10-resources.md" %}
 
-{% page-ref page="oasc-resources-for-developers.md" %}
+{% page-ref page="oasc-mims-resources-for-developers.md" %}
 
-{% page-ref page="oasc-resources-for-managers.md" %}
+{% page-ref page="oasc-mims-resources-for-managers.md" %}
 
 
 

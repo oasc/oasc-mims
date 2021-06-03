@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Introduction](oasc-mims-mim-intro.md)
-* [Governance](oasc-governance.md)
+* [Introduction](oasc-mims-introduction.md)
+* [Governance](oasc-mims-governance.md)
 * [OASC MIM1: Context](oasc-mim-1-context.md)
 * [OASC MIM2: Data Models](oasc-mim-2-data-models.md)
 * [OASC MIM3: Contracts](oasc-mim-3-contracts.md)
@@ -18,6 +18,6 @@
 * [OASC MIM8: Indicators](oasc-mim8-indicators.md)
 * [OASC MIM9: Analytics](oasc-mim9-analytics.md)
 * [OASC MIM10: Resources](oasc-mim10-resources.md)
-* [Resources for developers](oasc-resources-for-developers.md)
-* [Resources for managers](oasc-resources-for-managers.md)
+* [Resources for developers](oasc-mims-resources-for-developers.md)
+* [Resources for managers](oasc-mims-resources-for-managers.md)
 
