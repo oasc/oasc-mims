@@ -26,121 +26,121 @@ Implementation can be different, as long as crucial interoperability points in a
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>OASC MIM1</b>
-      </td>
-      <td style="text-align:center">
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim-1-context.md"><b>OASC MIM1</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">
         <p>&#x1F469;&#x2696;</p>
         <p>Governance</p>
-      </td>
-      <td style="text-align:left">Context</td>
-      <td style="text-align:left">Context Information Management</td>
-      <td style="text-align:left">
-        <p><code>ETSI NGSI-LD <br />ITU-T SG20 DPM</code>
-        </p>
-        <p><code>MIMS+</code>
-        </p>
-      </td>
+        </td>
+        <td style="text-align:left">Context</td>
+        <td style="text-align:left">Context Information Management</td>
+        <td style="text-align:left">
+          <p><code>ETSI NGSI-LD <br />ITU-T SG20 DPM</code>
+          </p>
+          <p><code>MIMS+</code>
+          </p>
+        </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM2</b>
-      </td>
-      <td style="text-align:center">
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim-2-data-models.md"><b>OASC MIM2</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">
         <p>&#x1F469;&#x2696;</p>
         <p>Governance</p>
-      </td>
-      <td style="text-align:left">Data Models</td>
-      <td style="text-align:left">Shared Data Models</td>
-      <td style="text-align:left">
-        <p><code>SmartDataModels<br />DTDL<br />ORM<br />GTFS</code>
-        </p>
-        <p><code>...</code>
-        </p>
-      </td>
+        </td>
+        <td style="text-align:left">Data Models</td>
+        <td style="text-align:left">Shared Data Models</td>
+        <td style="text-align:left">
+          <p><code>SmartDataModels<br />DTDL<br />ORM<br />GTFS</code>
+          </p>
+          <p><code>...</code>
+          </p>
+        </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM3</b>
-      </td>
-      <td style="text-align:center">
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim-3-contracts.md"><b>OASC MIM3</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">
         <p>&#x1F9E9;</p>
         <p>Reference</p>
-      </td>
-      <td style="text-align:left">Contracts</td>
-      <td style="text-align:left">Ecosystem Transactions Management</td>
-      <td style="text-align:left">
-        <p><code>TMF Open APIs</code>
-        </p>
-        <p><code>OMG LETS*</code>
-        </p>
-      </td>
+        </td>
+        <td style="text-align:left">Contracts</td>
+        <td style="text-align:left">Ecosystem Transactions Management</td>
+        <td style="text-align:left">
+          <p><code>TMF Open APIs</code>
+          </p>
+          <p><code>OMG LETS*</code>
+          </p>
+        </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM4</b>
-      </td>
-      <td style="text-align:center">&#x1F4A1;
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim4-trust/"><b>OASC MIM4</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">&#x1F4A1;
         <br />Work item</td>
-      <td style="text-align:left">Trust</td>
-      <td style="text-align:left">Personal Data Management</td>
-      <td style="text-align:left"></td>
+        <td style="text-align:left">Trust</td>
+        <td style="text-align:left">Personal Data Management</td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM5</b>
-      </td>
-      <td style="text-align:center">
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim5-transparency/"><b>OASC MIM5</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">
         <p>&#x1F4A1;</p>
         <p>Work item</p>
-      </td>
-      <td style="text-align:left">Transparency</td>
-      <td style="text-align:left">Fair Artificial Intelligence</td>
-      <td style="text-align:left"></td>
+        </td>
+        <td style="text-align:left">Transparency</td>
+        <td style="text-align:left">Fair Artificial Intelligence</td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM6</b>
-      </td>
-      <td style="text-align:center">&#x1F4A1;
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim6-security.md"><b>OASC MIM6</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">&#x1F4A1;
         <br />Work item</td>
-      <td style="text-align:left">Security</td>
-      <td style="text-align:left">Security management</td>
-      <td style="text-align:left"></td>
+        <td style="text-align:left">Security</td>
+        <td style="text-align:left">Security management</td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM7</b>
-      </td>
-      <td style="text-align:center">
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim7-places.md"><b>OASC MIM7</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">
         <p>&#x1F4A1;</p>
         <p>Work item</p>
-      </td>
-      <td style="text-align:left">Places</td>
-      <td style="text-align:left">Geospatial information management</td>
-      <td style="text-align:left"></td>
+        </td>
+        <td style="text-align:left">Places</td>
+        <td style="text-align:left">Geospatial information management</td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM8</b>
-      </td>
-      <td style="text-align:center">
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim8-indicators.md"><b>OASC MIM8</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">
         <p>&#x1F4A1;</p>
         <p>Work item</p>
-      </td>
-      <td style="text-align:left">Indicators</td>
-      <td style="text-align:left">Ecosystem indicator management</td>
-      <td style="text-align:left"></td>
+        </td>
+        <td style="text-align:left">Indicators</td>
+        <td style="text-align:left">Ecosystem indicator management</td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM9</b>
-      </td>
-      <td style="text-align:center">&#x1F4A1;
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim9-analytics.md"><b>OASC MIM9</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">&#x1F4A1;
         <br />Work item</td>
-      <td style="text-align:left">Analytics</td>
-      <td style="text-align:left">Data Analytics Managment</td>
-      <td style="text-align:left"></td>
+        <td style="text-align:left">Analytics</td>
+        <td style="text-align:left">Data Analytics Managment</td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>OASC MIM10</b>
-      </td>
-      <td style="text-align:center">&#x1F4A1;
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim10-resources.md"><b>OASC MIM10</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:center">&#x1F4A1;
         <br />Work item</td>
-      <td style="text-align:left">Resources</td>
-      <td style="text-align:left">Resource Impact Assesment</td>
-      <td style="text-align:left"></td>
+        <td style="text-align:left">Resources</td>
+        <td style="text-align:left">Resource Impact Assesment</td>
+        <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
