@@ -6,11 +6,11 @@
 
 {% page-ref page="oasc-governance.md" %}
 
-{% page-ref page="oasc-mims-mim-1-context.md" %}
+{% page-ref page="oasc-mim-1-context.md" %}
 
-{% page-ref page="oasc-mims-mim-2-oasc-data-models.md" %}
+{% page-ref page="oasc-mim-2-data-models.md" %}
 
-{% page-ref page="oasc-mims-mim-3-contracts.md" %}
+{% page-ref page="oasc-mim-3-contracts.md" %}
 
 {% page-ref page="oasc-mim4-trust/" %}
 
@@ -26,9 +26,9 @@
 
 {% page-ref page="oasc-mim10-resources.md" %}
 
-{% page-ref page="oasc-mims-standards-library.md" %}
+{% page-ref page="oasc-resources-for-developers.md" %}
 
-{% page-ref page="resources-for-managers.md" %}
+{% page-ref page="oasc-resources-for-managers.md" %}
 
 
 
