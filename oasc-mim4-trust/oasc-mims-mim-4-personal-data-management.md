@@ -1,4 +1,4 @@
-# OASC MIM4: Personal Data Management
+# OASC MIM4: City of Helsinki proposal
 
 Corresponding author:
 

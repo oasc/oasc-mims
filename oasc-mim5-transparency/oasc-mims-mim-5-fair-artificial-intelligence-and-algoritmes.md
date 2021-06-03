@@ -1,4 +1,8 @@
-# OASC MIM5: Fair Artificial Intelligence
+---
+description: Fair Artificial Intelligence
+---
+
+# OASC MIM5: City of Amsterdam proposal
 
 Proposed by the City of Amsterdam and adopted as work item for 2020
 

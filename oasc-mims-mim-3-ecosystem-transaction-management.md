@@ -1,6 +1,47 @@
-# OASC MIM3: Transaction Management
+---
+description: Transaction Management
+---
 
-## Goals <a id="MIM3:EcosystemTransactionManagement-Goals"></a>
+# OASC MIM3: Contracts
+
+## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">&#x1F4A1;
+        <br />Work Item</th>
+      <th style="text-align:center">&gt;</th>
+      <th style="text-align:center">
+        <p>&#x1F9E9;</p>
+        <p>Reference</p>
+      </th>
+      <th style="text-align:center">&gt;</th>
+      <th style="text-align:center">
+        <p>&#x1F3D7;</p>
+        <p>Specification</p>
+      </th>
+      <th style="text-align:center">&gt;</th>
+      <th style="text-align:center">
+        <p>&#x1F469;&#x2696;</p>
+        <p>Governance</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+  </tbody>
+</table>
+
+## Objectives <a id="MIM3:EcosystemTransactionManagement-Goals"></a>
 
 Scaling of IoT- and AI-enabled services across many cities requires easy and risk-free access to suitable urban data sources that are already deployed in cities and communities today. A global market allows for easy and risk-free access to relevant and available urban data, solutions and other resources so that services and solutions already deployed in other cities can easily be scaled and reach mainstream deployment. The use and re-use lead to new revenue streams incentivising the infrastructure owners to share data, analytics, services and/or solutions in infrastructure partnerships based on key technology enablers.
 
@@ -16,7 +57,9 @@ A crucial aspect of a marketplace is ecosystem transaction management. These fun
 
 There are various ways in realising such Ecosystem Transaction Management. A standardised way of doing so is provided by TM Forum, who has created an API suite of specifications for digital marketplaces, named the Business API Ecosystem.
 
-## Recommended specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
+## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
+
+**Recommended specifications:**
 
 * UDX \(Urban Data Exchange\) Catalogue: \[COMING SOON\]
 * Basic Data Marketplace Enablers [https://synchronicity-iot.eu/wp-content/uploads/2018/09/SynchroniCity\_D2.4.pdf](https://synchronicity-iot.eu/wp-content/uploads/2018/09/SynchroniCity_D2.4.pdf)

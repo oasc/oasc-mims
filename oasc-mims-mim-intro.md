@@ -10,6 +10,8 @@ Minimal Interoperability Mechanisms \(MIMs\) are universal tools for achieving i
 
 Implementation can be different, as long as crucial interoperability points in any given technical architecture use the same interoperability mechanisms. The MIMs are vendor-neutral and technology-agnostic, meaning that anybody can use them and integrate them in existing systems and offerings.
 
+## Adopted OASC MIMs
+
 **Currently the following MIMs have been formally adopted by all OASC members:**
 
 <table>
@@ -30,8 +32,8 @@ Implementation can be different, as long as crucial interoperability points in a
         <p>&#x1F469;&#x2696;</p>
         <p>Governance</p>
       </td>
+      <td style="text-align:left">Context</td>
       <td style="text-align:left">Context Information Management</td>
-      <td style="text-align:left">Real-time context information</td>
       <td style="text-align:left">
         <p><code>ETSI NGSI-LD <br />ITU-T SG20 DPM</code>
         </p>
@@ -47,7 +49,7 @@ Implementation can be different, as long as crucial interoperability points in a
         <p>Governance</p>
       </td>
       <td style="text-align:left">Data Models</td>
-      <td style="text-align:left">Common data models across verticals</td>
+      <td style="text-align:left">Shared Data Models</td>
       <td style="text-align:left">
         <p><code>SmartDataModels<br />DTDL<br />ORM<br />GTFS</code>
         </p>
@@ -62,8 +64,8 @@ Implementation can be different, as long as crucial interoperability points in a
         <p>&#x1F9E9;</p>
         <p>Reference</p>
       </td>
+      <td style="text-align:left">Contracts</td>
       <td style="text-align:left">Ecosystem Transactions Management</td>
-      <td style="text-align:left">Rules, terms, and conditions</td>
       <td style="text-align:left">
         <p><code>TMF Open APIs</code>
         </p>
@@ -76,8 +78,8 @@ Implementation can be different, as long as crucial interoperability points in a
       </td>
       <td style="text-align:center">&#x1F4A1;
         <br />Work item</td>
+      <td style="text-align:left">Trust</td>
       <td style="text-align:left">Personal Data Management</td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -128,7 +130,16 @@ Implementation can be different, as long as crucial interoperability points in a
       <td style="text-align:center">&#x1F4A1;
         <br />Work item</td>
       <td style="text-align:left">Analytics</td>
+      <td style="text-align:left">Data Analytics Managment</td>
       <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>OASC MIM10</b>
+      </td>
+      <td style="text-align:center">&#x1F4A1;
+        <br />Work item</td>
+      <td style="text-align:left">Resources</td>
+      <td style="text-align:left">Resource Impact Assesment</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>

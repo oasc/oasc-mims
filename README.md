@@ -10,9 +10,9 @@
 
 {% page-ref page="oasc-mims-mim-3-ecosystem-transaction-management.md" %}
 
-{% page-ref page="oasc-mims-mim-4-personal-data-management/" %}
+{% page-ref page="oasc-mim4-trust/oasc-mims-mim-4-personal-data-management.md" %}
 
-{% page-ref page="oasc-mims-mim-5-fair-artificial-intelligence-and-algoritmes/" %}
+{% page-ref page="oasc-mim5-transparency/oasc-mims-mim-5-fair-artificial-intelligence-and-algoritmes.md" %}
 
 {% page-ref page="oasc-mims-standards-library.md" %}
 

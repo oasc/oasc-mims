@@ -1,25 +1,23 @@
 # OASC MIM2: Data Models
 
-## MIM Status <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">
-        <p>&#x1F4A1;</p>
-        <p>Work Item</p>
-      </th>
-      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">&#x1F4A1;
+        <br />Work Item</th>
+      <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
         <p>Reference</p>
       </th>
-      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F3D7;</p>
         <p>Specification</p>
       </th>
-      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F469;&#x2696;</p>
         <p>Governance</p>
@@ -47,9 +45,9 @@
 
 Harmonization
 
-## Specification
+## Specifications
 
-Recommended specifications
+**Recommended specifications:**
 
 * NGSI-LD compliant data models for aspects of the smart city have been defined by organisations and projects, including OASC, FIWARE, GSMA and the SynchroniCity project and there is an ongoing joint activity of TM Forum and FIWARE to specify more.
 * Existing data models and ontologies, e.g. the SAREF \(Smart Applications REFerence ontology\) standard by ETSI/oneM2M, can be mapped for use with NGSI-LD by identifying what are entities, properties and relationships, which can be managed and requested by the NGSI-LD API.

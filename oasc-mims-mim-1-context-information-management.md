@@ -4,9 +4,9 @@ description: >-
   cities.
 ---
 
-# OASC MIM1: Context Information Management
+# OASC MIM1: Context
 
-## MIM Status <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 
 <table>
   <thead>
@@ -15,17 +15,17 @@ description: >-
         <p>&#x1F4A1;</p>
         <p>Work Item</p>
       </th>
-      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
         <p>Reference</p>
       </th>
-      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F3D7;</p>
         <p>Specification</p>
       </th>
-      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F469;&#x2696;</p>
         <p>Governance</p>
@@ -63,7 +63,7 @@ Applications can subscribe to changes of information so that they are always awa
 
 The implementation across \(and even within\) the city, or any application ecosystem, can be very diverse and heterogeneous. An agreement on the interfaces is necessary to be able to access the information. This is enabled by the context management API and the data information models.
 
-## Specification <a id="MIM1:ContextInformationManagement-Recommendation"></a>
+## Specifications <a id="MIM1:ContextInformationManagement-Recommendation"></a>
 
 | **Standard** | Aspect | **Reference** |
 | :--- | :--- | :--- |
