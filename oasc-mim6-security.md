@@ -1,5 +1,5 @@
 ---
-description: Security Management
+description: 'OASC MIM6: Security Management'
 ---
 
 # Security - MIM6

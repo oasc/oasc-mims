@@ -1,3 +1,7 @@
+---
+description: 'OASC MIM10: Resource Impact Assessment'
+---
+
 # Resources - MIM10
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>

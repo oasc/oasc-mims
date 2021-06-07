@@ -1,5 +1,5 @@
 ---
-description: Fair Artificial Intelligence
+description: 'OASC MIM5: Fair Artificial Intelligence'
 ---
 
 # Transparency - MIM5

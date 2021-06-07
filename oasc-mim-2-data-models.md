@@ -1,3 +1,7 @@
+---
+description: 'OASC MIM2: Shared Data models'
+---
+
 # Data Models - MIM2
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>

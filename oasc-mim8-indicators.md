@@ -1,5 +1,5 @@
 ---
-description: Ecosystem indicator management
+description: 'OASC MIM8: Ecosystem indicator management'
 ---
 
 # Indicators - MIM8

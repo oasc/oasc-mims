@@ -1,5 +1,5 @@
 ---
-description: Personal Data Management
+description: 'OASC MIM4: Personal Data Management'
 ---
 
 # Trust - MIM4
