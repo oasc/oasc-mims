@@ -1,5 +1,5 @@
 ---
-description: 'OASC MIM6: Security Management'
+description: Security Management
 ---
 
 # Security - MIM6
@@ -16,7 +16,7 @@ description: 'OASC MIM6: Security Management'
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Capability</p>
+        <p>Reference</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">

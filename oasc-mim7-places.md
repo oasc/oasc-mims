@@ -1,5 +1,5 @@
 ---
-description: 'OASC MIM7: Geospacial Information Management'
+description: Geospacial Information Management
 ---
 
 # Places - MIM7
@@ -16,7 +16,7 @@ description: 'OASC MIM7: Geospacial Information Management'
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Capability</p>
+        <p>Reference</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">

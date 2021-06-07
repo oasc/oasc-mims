@@ -1,7 +1,3 @@
----
-description: 'OASC MIM9: Data Analytics Management'
----
-
 # Analytics - MIM9
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
@@ -16,7 +12,7 @@ description: 'OASC MIM9: Data Analytics Management'
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Capability</p>
+        <p>Reference</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">

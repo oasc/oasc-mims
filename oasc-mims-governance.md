@@ -61,31 +61,30 @@ The OASC 'driven by implementation' DNA provides fertile grounds for identifying
 
 ## How MIMs are adopted
 
-The Council of Cities \(CoC\), representing all OASC cities across 4 continents, holds the final verdict on what becomes a MIM and what capabilities are contained therein. The CoC exclusively represents the so-called 'demand side': nowhere in the CoC, or anywhere else in the governance of OASC for that matter, are decisions made by companies or individual commercial interests. This ensures an open and level playing field, and ultimately an addressable and interoperable global market.
+The Council of Cities \(CoC\), representing all OASC cities across 4 continents, holds the final verdict on what becomes a MIM and what references are contained therein. The CoC exclusively represents the so-called 'demand side': nowhere in the CoC, or anywhere else in the governance of OASC for that matter, are decisions made by companies or individual commercial interests. This ensures an open and level playing field, and ultimately an addressable and interoperable global market.
 
 {% tabs %}
-{% tab title="Proposal >" %}
+{% tab title="Proposal -->" %}
   
 The proposal for a new MIM is prepared by initially one city or partner who then opens up the process for consideration and enrichment by other members and partners in the CoC and WGs.
 {% endtab %}
 
-{% tab title="Work item >" %}
+{% tab title="Work item -->" %}
 💡  
 After provisional endorsement by the BoD, the finalised proposal for the new MIM is presented to the General Assembly for a vote for formal adoption as a new MIM with the status of 'Work Item'. A WG is established and a call for additional collaborators is made at the GA. Then a one-year process of building, testing, sharing, learning, and reaching out to third parties takes place with the aim of establishing a workable baseline of references to open standards and best practices.
 {% endtab %}
 
-{% tab title="Capability >" %}
+{% tab title="Reference -->" %}
 🧩   
 The work on the MIM is presented to the CoC and BoD, and offered as a vote item at the GA. By voting favourably, the GA elevates the status from 'Work Item' to an official OASC MIM that can be used by cities and solution providers in various contexts to achieve interoperability.
 {% endtab %}
 
-{% tab title="Specification >" %}
-🏗   
+{% tab title="Specification -->" %}
+  
 After the MIM has 'gone live', it is matured over a certain period and in a variety of ways \(sandboxes, SDOs,  technical testing and development, etc.\) with the aim of reaching a technology-agnostic specification that can be satisfied by different actors, ensuring an open, sustainable, and diverse technology ecosystem.
 {% endtab %}
 
 {% tab title="Governance" %}
-👩⚖   
 The MIM is maintained, evolved, and promoted by the appropriate bodies of OASC.
 {% endtab %}
 {% endtabs %}

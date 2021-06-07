@@ -1,5 +1,5 @@
 ---
-description: 'OASC MIM3: Ecosystem Transactions Management'
+description: Transaction Management
 ---
 
 # Contracts - MIM3
@@ -14,7 +14,7 @@ description: 'OASC MIM3: Ecosystem Transactions Management'
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Capability</p>
+        <p>Reference</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
