@@ -2,7 +2,7 @@
 description: Security Management
 ---
 
-# OASC MIM6: Security
+# Security - MIM6
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

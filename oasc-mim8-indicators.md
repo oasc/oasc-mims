@@ -2,7 +2,7 @@
 description: Ecosystem indicator management
 ---
 
-# OASC MIM8: Indicators
+# Indicators - MIM8
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

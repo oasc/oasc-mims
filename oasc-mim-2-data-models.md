@@ -1,4 +1,4 @@
-# OASC MIM2: Data Models
+# Data Models - MIM2
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

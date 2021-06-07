@@ -2,7 +2,7 @@
 description: Geospacial Information Management
 ---
 
-# OASC MIM7: Places
+# Places - MIM7
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

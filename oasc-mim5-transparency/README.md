@@ -2,7 +2,7 @@
 description: Fair Artificial Intelligence
 ---
 
-# OASC MIM5: Transparency
+# Transparency - MIM5
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

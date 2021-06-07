@@ -1,4 +1,4 @@
-# OASC MIM9: Analytics
+# Analytics - MIM9
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

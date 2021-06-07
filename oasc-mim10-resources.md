@@ -1,4 +1,4 @@
-# OASC MIM10: Resources
+# Resources - MIM10
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

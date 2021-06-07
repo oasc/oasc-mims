@@ -2,7 +2,7 @@
 description: Personal Data Management
 ---
 
-# OASC MIM4: Trust
+# Trust - MIM4
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

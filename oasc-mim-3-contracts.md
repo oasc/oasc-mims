@@ -2,7 +2,7 @@
 description: Transaction Management
 ---
 
-# OASC MIM3: Contracts
+# Contracts - MIM3
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

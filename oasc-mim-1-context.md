@@ -4,7 +4,7 @@ description: >-
   cities.
 ---
 
-# OASC MIM1: Context
+# Context - MIM1
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 
