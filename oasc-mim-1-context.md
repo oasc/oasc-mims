@@ -1,5 +1,7 @@
 ---
-description: 'OASC MIM1: Context Information Management'
+description: >-
+  Enabling homogeneous access to real-time context information from hundreds of
+  cities.
 ---
 
 # Context - MIM1

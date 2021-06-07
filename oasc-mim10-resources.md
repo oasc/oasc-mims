@@ -16,7 +16,7 @@ description: 'OASC MIM10: Resource Impact Assessment'
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Reference</p>
+        <p>Capability</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
