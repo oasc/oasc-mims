@@ -71,7 +71,7 @@ The implementation across \(and even within\) the city, or any application ecosy
 
 ## ETSI NGSI-LD Reference Implementations <a id="MIM1:ContextInformationManagement-ETSINGSI-LDReferenceImplementations"></a>
 
-The below table lists reference implementations of the NGSI standard known to OASC. If you are aware of other reference implementations please share them in the comments section.
+The below table lists reference implementations of the NGSI-LD standard known to OASC. If you are aware of other reference implementations please share them in the comments section.
 
 _Please note that this list purely serves an informational purpose. OASC does not guarantee that the listed reference implementations are operational with local technical environments and OASC cannot be held responsible for the listed implementations._
 
@@ -82,7 +82,7 @@ _Please note that this list purely serves an informational purpose. OASC does no
 | Sensinov | Djane.io | [https://github.com/sensinov/djane](https://github.com/sensinov/djane) |
 | EGM | Stellio Broker | [https://github.com/stellio-hub/stellio-context-broker](https://github.com/stellio-hub/stellio-context-broker) |
 
-{% hint style="info" %}
-We are updating this list 
-{% endhint %}
+## Verification ##
+ETSI organised a Testing Task Force (TTF) to create a Test toolkit to validate context brokers towards the specification. EGM, Ubiwhere and OASC colloborated on this task force. the test descriptions, purposes and robot scrpits can be found on the ETSI CIM Website  [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/)
+
 
