@@ -45,7 +45,7 @@ description: >-
   </tbody>
 </table>
 
-## Objectives \(first draft\)
+## Objectives
 
   
 Governments, including local governments, are increasingly seeking to capture the opportunities offered by automated decision-making using algorithmic systems, to improve their services. However, government agencies and the general public have justified concerns over bias, privacy, accountability, and transparency of such automated decision-making processes. New examples continue to emerge of potential negative consequences from the inappropriate use of \(‘black box’\) algorithms. 
@@ -61,6 +61,45 @@ The OASC MIM 5 will match these activities by focusing on the technical capabili
 
 
 ## Capabilities
+
+  
+In order to match the procurement norm being developed, the following are the set of six minimal requirements for suppliers of algorithmic systems to ensure that these are fair, trustworthy and transparent.
+
+**Procedural Transparency**
+
+·       Full disclosure of the type of choices made, parties involved, risks and mitigation actions in the process of creating an algorithmic model.
+
+**Technical Transparency**
+
+·       full disclosure to allow the buyer of the source code and model to enable them to explain the model to citizens or other stakeholders.
+
+·       Access to the learnings of the model, ideally structured using MIM2, to prevent vendor lock-ins.
+
+·       Clarity about the process by which an algorithmic system makes decisions in an overall system, ie. the optimisation goals and outcomes of an algorithm.
+
+**Technical Explainability**
+
+·       Ability to explain on an individual level how a model creates certain outcomes.
+
+·       Ability to address any restrictions as to whom the information will be classified: public servants, other experts, etc.
+
+**Fairness**
+
+·       Ensuring that the algorithmic systems does not systematically disadvantage, show bias against, or even discriminate against, different social groups and demographics.
+
+**Context**
+
+·       However, the assessment of fairness depends on facts, events, and goals, and therefore has to be understood as situation or task-specific and necessarily addressed within the scope of practice. For instance, there may be an explicit goal to address an historic imbalance, where positive discrimination is considered appropriate. Here the aspect of “fairness” needs to be seen in the wider context.
+
+**Accountability**
+
+·       Accountability for the supplier to create algorithms respecting human digital rights, and that is compliant with federal, state, and local anti-discrimination laws.
+
+·       Agencies should not procure algorithms that are shielded from an independent validation and public review because of trade-secret or confidentiality claims.
+
+It should be noted that these capabilities should be applied differently to different systems depending on the nature, context and goals of the algorithmic system.
+
+Technically, these capabilities can be translated into a metadata API that every vendor would provide, when supplying high impact algorithms to cities, and the buyers could put in their requirements when procuring.
 
 
 
