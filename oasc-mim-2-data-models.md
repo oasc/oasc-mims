@@ -1,3 +1,7 @@
+---
+description: 'OASC MIM2: Shared Data models'
+---
+
 # Data Models - MIM2
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
@@ -10,7 +14,7 @@
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Reference</p>
+        <p>Capability</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
@@ -39,7 +43,11 @@
 
 ## Objectives
 
-~~The data models guarantee that we can disseminate and scale up a common data lingua franca based on shared data models.~~
+Guidelines and catalog of minimum common data models in different verticals to enable interoperability for applications and systems among different cities.
+
+Harmonized representation formats and semantics that will be used by applications both to consume and to publish data.
+
+Smart Data Models for interoperable and replicable smart solutions in multiple sectors, starting with smart cities but also for smart agrifood, smart utilities, smart industry, etc.
 
 ## Capabilities
 
