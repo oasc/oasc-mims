@@ -1,5 +1,7 @@
 ---
-description: Fair Artificial Intelligence
+description: >-
+  OASC MIM5: Automated decision-making algorithmic systems that are fair,
+  trustworthy and transparent
 ---
 
 # Transparency - MIM5
@@ -16,7 +18,7 @@ description: Fair Artificial Intelligence
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Reference</p>
+        <p>Capability</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
@@ -43,7 +45,18 @@ description: Fair Artificial Intelligence
   </tbody>
 </table>
 
-## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Objectives \(first draft\)
+
+  
+Governments are increasingly seeking to capture the opportunities offered by automated decision-making algorithmic systems, to improve their services. However, government agencies and the general public have justified concerns over bias, privacy, accountability, and transparency of such automated decision-making processes. New examples continue to emerge of potential negative consequences from the inappropriate use of \(‘black box’\) algorithms. 
+
+Here we define "Algorithmic System" as: "software that automatically makes predictions, makes decisions and/or gives advice by using data analysis, statistics and/or self-learning logic."
+
+An automated decision-making algorithmic system does not necessarily require any form of self-learning logic \(such as machine learning\). In actual practice, software is often used that does not contain any self-learning logic, but the application of which may have great and sometimes unknown or unintended impact on citizens. 
+
+To provide citizens and governments with a proper process to mitigate risk, Amsterdam city council, along with some other cities, is working to develop a European standard for procurement rules for government agencies to use when procuring algorithmic systems to support automated decision-making. Alongside this, guidance is being developed regarding the actions that government agencies themselves need to take to make sure that automated decision-making is trusted, fair and transparent. This will include providing channels for citizens to query the decision-making process and involving citizens in co-designing the algorithmic systems. Most importantly there is the need to ensure that the data used by those systems is accurate and appropriate.
+
+The OASC MIM 5 will match these activities by focusing on the technical capabilities required to check that the algorithmic systems offered by the supplier comply with the requirements for fairness, trustworthiness and transparency.
 
 
 
