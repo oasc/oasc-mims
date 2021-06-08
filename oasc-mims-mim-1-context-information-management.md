@@ -67,7 +67,7 @@ The implementation across \(and even within\) the city, or any application ecosy
 
 | **Standard** | Aspect | **Reference** |
 | :--- | :--- | :--- |
-| **ETSI NGSI-LD** | **Group Specification** | \*\*\*\*[**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/)\*\*\*\* |
+| **ETSI NGSI-LD** | **Group Specification** | [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/)|
 
 ## ETSI NGSI-LD Reference Implementations <a id="MIM1:ContextInformationManagement-ETSINGSI-LDReferenceImplementations"></a>
 
