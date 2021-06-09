@@ -13,7 +13,7 @@
   * [OASC MIM5: City of Amsterdam proposal](oasc-mim5-transparency/oasc-mims-mim-5-fair-artificial-intelligence-and-algoritmes.md)
   * [OASC MIMs : Dutch Public Trust Infrastructure](oasc-mim5-transparency/oasc-mims-dutch-public-trust-infrastructure.md)
   * [OASC MIMs : I Reveal My Attributes \(IRMA\)](oasc-mim5-transparency/oasc-mims-i-reveal-my-attributes-irma.md)
-* [Security - MIM6](oasc-mim6-security.md)
+* [Security - MIM6 \(Davor to review\)](oasc-mim6-security.md)
 * [Places - MIM7](oasc-mim7-places.md)
 * [Indicators - MIM8](oasc-mim8-indicators.md)
 * [Analytics - MIM9](oasc-mim9-analytics.md)

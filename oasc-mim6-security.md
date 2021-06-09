@@ -2,7 +2,7 @@
 description: 'OASC MIM6: Security Management'
 ---
 
-# Security - MIM6
+# Security - MIM6 \(Davor to review\)
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 
@@ -43,13 +43,15 @@ description: 'OASC MIM6: Security Management'
   </tbody>
 </table>
 
-## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Objectives  <a id="MIM1:ContextInformationManagement-Goal"></a>
 
 As cities become smarter and more technology-driven, they become a target for cyber attacks with significant consequences in terms of costs and loss of services. In order to deliver reliable digital services for citizens, cities have to continuously evaluate the cyber risks and to put in place security measures to prepare for cyber attacks.  
 
 The objective of proposed MIM6 is to develop a methodology to help cities identify security-related risks and choose the right measures to protect their systems and data.
 
 ## Capabilities
+
+
 
 
 

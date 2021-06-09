@@ -74,3 +74,5 @@ The personal data is stored in so called data pods the way users will have acces
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
 
+Add work of Solid
+
