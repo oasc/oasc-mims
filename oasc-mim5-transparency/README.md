@@ -105,3 +105,6 @@ Technically, these capabilities can be translated into a metadata API that every
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
 
+  
+Amsterdam’s generalized [procurement conditions](https://assets.amsterdam.nl/publish/pages/968697/standard_clauses_for_fair_use_of_algorithmic_systems.pdf), along with its [explanatory guide](https://assets.amsterdam.nl/publish/pages/968697/explanatory_standard_clauses_for_fair_use_of_algorithmic_systems.pdf), the [White Paper on Public AI Registers](https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf), and the Deliverables of the [AI HLEG](https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai) under the “Specifications” section provide a good overview of the requirements for fair, trustworthy and transparent automated decision making using algorithmic systems.
+
