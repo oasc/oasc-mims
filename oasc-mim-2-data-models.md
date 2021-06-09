@@ -51,7 +51,11 @@ Smart Data Models for interoperable and replicable smart solutions in multiple s
 
 ## Capabilities
 
-Harmonization
+Data models serve as a language in which systems can talk to each other. Clear defined data models help cities in choosing and opening up data across solutions.
+
+Data models should capture as much the complete context they are representing. This enables other applications to define what they need for their context and request the specific attributes they are interested in.
+
+Harmonization across data models help in supporting different data models again to support the different applications out there. Clear definitions of the data models help in transforming this data models between the different standards
 
 ## Specifications
 
@@ -62,6 +66,7 @@ Harmonization
 * oneM2M base ontology \(that is compatible with SAREF\). Additionally, oneM2M provides the means to instantiate ontologies as a means to provide semantic descriptions of the data exchanged \(through the use of metadata\)
 * SAREF: Smart Appliances REFerence \(SAREF\) ontology specified by ETSI OneM2M committee with the extension of SAREF4Cities provides an ontology focused on smart cities
 * Core vocabularies of ISA like Core Public Service Vocabulary Application Profile used as the basis for the Single Digital Gateway Regulation that touches local governments, Core Person, Core Organization etc
+* DTDL is the Digital twin Definition Language developed by Microsoft. This language is based on top op json-ld and the existing Fiware data models are converted in this format.
 
 {% hint style="info" %}
 Unfinished page
