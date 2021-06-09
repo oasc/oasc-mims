@@ -1,7 +1,5 @@
 ---
-description: >-
-  Enabling homogeneous access to real-time context information from hundreds of
-  cities.
+description: 'OASC MIM1: Context Information Management'
 ---
 
 # Context - MIM1
@@ -18,7 +16,7 @@ description: >-
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Reference</p>
+        <p>Capability</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">

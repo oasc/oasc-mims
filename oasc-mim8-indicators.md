@@ -1,5 +1,5 @@
 ---
-description: Ecosystem indicator management
+description: 'OASC MIM8: Ecosystem indicator management'
 ---
 
 # Indicators - MIM8
@@ -16,7 +16,7 @@ description: Ecosystem indicator management
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Reference</p>
+        <p>Capability</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
