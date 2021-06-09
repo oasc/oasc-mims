@@ -1,63 +1,74 @@
-# MIM4: Personal Data Management
+---
+description: >-
+  Enabling management of Personal Data with full transparancy and the citizen in control.
+---
 
-Corresponding author:
+# OASC MIM4: Personal Data management
 
-* Kimmo Karhu, City of Helsinki \(k[immo.karhu@hel.fi\)](mailto:kimmo.karhu@hel.fi)
+## MIM Status <a id="MIM4:PersonalDataManagement-Goal"></a>
 
-Other contributors:
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">
+        <p>&#x1F4A1;</p>
+        <p>Work Item</p>
+      </th>
+      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">
+        <p>&#x1F9E9;</p>
+        <p>Reference</p>
+      </th>
+      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">
+        <p>&#x1F3D7;</p>
+        <p>Specification</p>
+      </th>
+      <th style="text-align:center">--&gt;</th>
+      <th style="text-align:center">
+        <p>&#x1F469;&#x2696;</p>
+        <p>Governance</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
+    </tr>
+  </tbody>
+</table>
 
-* Mika Leivo, City of Helsinki
-* Mikko Rusama, City of Helsinki
-* Antti Poikola, MyData Global
+## Objectives <a id="MIM4:PersonalDataManagement-Goal"></a>
 
-Note! To get things going, this is just a direct copy-paste of our white paper that we presented at OASC conference in Jan 2020.
+Sharing and reuse of personal data is increasingly important for cities in providing digital services to their citizens. Due to developments in AI and machine learning, there is an ongoing paradigm shift from reactive to proactive city, for example, serving citizens in a more personalized way in mobility cases where a route is calculated taking in account their preferences and needs. on top of that it is crucial that citizens are themselfs in control of their data.
 
-## Background—why City of Helsinki is interested in this? <a id="MIM4:PersonalDataManagement-Background&#x2014;whyCityofHelsinkiisinterestedinthis?"></a>
+Personal data needs to be shared across cities and regions. Citizens commute across cities, both national and globally, so there is a clear need for common standards to exchange personal data. 
 
-Helsinki wants to be the most functional city in the world by making full use of its data. Tomorrow’s Helsinki will be able to predict and provide services in a proactive, not just reactive manner.
+Many of the personal data requirements are required by the law. For example, GDPR requires that the consent is always given for a specific purpose. On the other hand, if two laws are applicable for same data \(e.g., privacy and health care legislation\) which one rules? Specific consent helps to solve these conflicts.
 
-To realize the vision, one key component in the data strategy is the Helsinki profile, a shared customer profile across all citizen services based on [MyData](https://mydata.org/) principles\[1\], i.e., people decide on how they data is used. In the Helsinki profile, the customer is understood broadly including residents, workers, tourists, and students. For example: How could a student living at city of Turku give consent to use her student status when using public transportation at Helsinki?
+There is a higher demand from citizens to know how, where and by who there data is used. This demand needs to be catered for in a very user friendly manner. There should be no wrong door to access your own personal data and an agreed standardized api and data model enable this.
 
-## Motivation—enable citizens to roam between cities <a id="MIM4:PersonalDataManagement-Motivation&#x2014;enablecitizenstoroambetweencities"></a>
+## Capabilities <a id="MIM4:PersonalDataManagement-Capabilities"></a>
 
-Sharing and reuse of personal data is increasingly important for cities in providing digital services to their citizens. Due to developments in AI and machine learning, there is an ongoing paradigm shift from reactive to proactive city, i.e., serving citizens in a more personalized way. Furthermore, as Facebook and Cambridge Analytica scandal illustrated, there is an urgent need for citizens to be in control of their own data.
+Citzens have clear choose on who and where their data is stored, and should be able to switch the data storage.
 
-There is no point in all cities doing overlapping work in this area. Furthermore, since citizens commute across cities, both nationally and globally, it would be beneficial to have common standards for personal data exchange, i.e., kind of “citizen roaming”.
+Citizens should be able to use the identity of their choosing, in best cases a keychain of identities can be defined, so that users can choose the identity per service.
 
-Many of these features are required by the law. For example, GDPR requires that the consent is always given for a specific purpose. On the other hand, if two laws are applicable for same data \(e.g., privacy and health care legislation\) which one rules? Specific consent could help to solve these conflicts.
+Cities and regions are perfect candidates to provide personalised data services or to provide personal data to certified services.
 
-We believe OASC provides a forum through which we can build common European standards for citizen profile and data exchange. This will hopefully also open up opportunities to do research and other collaboration with other European cities.
+Permission management of consent management needs to be handled preferably on attribute level.
 
-## Scope—minimum set of requirements <a id="MIM4:PersonalDataManagement-Scope&#x2014;minimumsetofrequirements"></a>
-
-We believe that MyData principles provide a recognized and solid ground for advancing minimal interoperability mechanisms \(MIMs\) for personal data management. MyData stack\[2\] \(see Figure 1\) contains the necessary technical building blocks for implementing personal data management. A critical layer is the management of data sharing agreements \(layer 2\). In addition to specific user consent, along the GDPR regulation\[3\], it should support processing based on contract, legal obligation, interests of the data subject, public interest, and other legitimate reasons.![](../.gitbook/assets/30507021.png)
-
-This stack is realized by MyData operators that a person can then use to control which service providers can have access to his/her data and for what purpose. In practice, there will be several MyData operators. For example, considering the city context, each city could operate as a MyData operator.
-
-To make the first steps, we need to identify a minimum common set of requirements. From the practical and city perspective, we need:
-
-* **Layer 1:** A citizen profile or account to which we can attach personal digital identities, data preferences and data sharing agreements
-* **Layer 2:** A way to define data sharing agreements that define data, purpose, and lawful base for processing. While GDPR lists the six reasons, we think, that being able to manage a specific user consent is a good starting point
-* **Layer 3:** The standard should only define the APIs \(e.g., for Layers 1 and 2\) and each MyData operator, such as Helsinki, could then integrate their own backends and/or purchase compatible operator capability as a service as they see best
-* **Layer 4:** A shared data model OR a way to map distinct models to each other
-
-To allow citizen to truly “roam” between cities / MyData operators, few other capabilities are needed:
-
-* **Import/export:** To transfer all historical data from one operator to another
-* **Delete:** Citizen should be able to delete all their consent based data
-* **Archive:** Legislation may require that some data is archived and cannot be deleted
-
-Ethical considerations are important and there should be some minimum requirements for participating entities.
-
-## How—what we are doing in the near future? <a id="MIM4:PersonalDataManagement-How&#x2014;whatwearedoinginthenearfuture?"></a>
-
-We are currently taking the Helsinki profile in use. Our starting point is that citizens can give consent for a specific purpose. We are piloting few services and also working jointly with other cities in Finland. We also have initiated few funding proposals in the area. Our plan is to have one service utilizing Helsinki profile in full operation before the summer.  
-  
+Citizens should be able to roam with their data between cities and internationally.
 
 
-\[1\] see [https://mydata.org/declaration/](https://mydata.org/declaration/)
+## Specification <a id="MIM4:PersonalDataManagement-Recommendation"></a>
 
-\[2\] adapted from [http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160954/MyData 2018.pdf](http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160954/MyData%202018.pdf)
+Today we see a number of initiativers around [MyData.org](https://www.mydata.org) and around the solid initiative of Tim-Berners lee.
 
-\[3\] see article 6 at [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
 
