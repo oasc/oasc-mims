@@ -11,22 +11,22 @@ description: >-
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">
+      <th style="text-align:left">
         <p>&#x1F4A1;</p>
         <p>Work Item</p>
       </th>
-      <th style="text-align:center">--&gt;</th>
-      <th style="text-align:center">
+      <th style="text-align:left">--&gt;</th>
+      <th style="text-align:left">
         <p>&#x1F9E9;</p>
         <p>Reference</p>
       </th>
-      <th style="text-align:center">--&gt;</th>
-      <th style="text-align:center">
+      <th style="text-align:left">--&gt;</th>
+      <th style="text-align:left">
         <p>&#x1F3D7;</p>
         <p>Specification</p>
       </th>
-      <th style="text-align:center">--&gt;</th>
-      <th style="text-align:center">
+      <th style="text-align:left">--&gt;</th>
+      <th style="text-align:left">
         <p>&#x1F469;&#x2696;</p>
         <p>Governance</p>
       </th>
@@ -34,13 +34,13 @@ description: >-
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:left">&#x2705;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x2705;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x2705;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x2705;</td>
     </tr>
   </tbody>
 </table>
@@ -67,7 +67,7 @@ The implementation across \(and even within\) the city, or any application ecosy
 
 | **Standard** | Aspect | **Reference** |
 | :--- | :--- | :--- |
-| **ETSI NGSI-LD** | **Group Specification** | [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/)|
+| **ETSI NGSI-LD** | **Group Specification** | [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/) |
 
 ## ETSI NGSI-LD Reference Implementations <a id="MIM1:ContextInformationManagement-ETSINGSI-LDReferenceImplementations"></a>
 
@@ -82,7 +82,7 @@ _Please note that this list purely serves an informational purpose. OASC does no
 | Sensinov | Djane.io | [https://github.com/sensinov/djane](https://github.com/sensinov/djane) |
 | EGM | Stellio Broker | [https://github.com/stellio-hub/stellio-context-broker](https://github.com/stellio-hub/stellio-context-broker) |
 
-## Verification ##
-ETSI organised a Testing Task Force (TTF) to create a Test toolkit to validate context brokers towards the specification. EGM, Ubiwhere and OASC colloborated on this task force. the test descriptions, purposes and robot scrpits can be found on the ETSI CIM Website  [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/)
+## Verification \#\#
 
+ETSI organised a Testing Task Force \(TTF\) to create a Test toolkit to validate context brokers towards the specification. EGM, Ubiwhere and OASC colloborated on this task force. the test descriptions, purposes and robot scrpits can be found on the ETSI CIM Website [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/)
 
