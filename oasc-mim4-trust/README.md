@@ -63,16 +63,24 @@ Citizen data is a key element in providing human-centric public services.  The O
 
 Personal Data Management needs to have an open API in line with MIM1 to broker data and standard data models MIM2. 
 
-The PDM needs to be fully compatible with the GDPR and needs to enable users to handle consent, allow and revoke access, and have full transparency on their personal data.
+The PDM needs to be fully compatible with the GDPR and needs to enable users to handle consent, allow and revoke access, and have full transparency on their personal data. Permission management of consent management needs to be handled preferably on attribute level.
 
 The PDM needs to allow users to choose the operator of their data and have a completely free choice to move their data to the operator of their choosing.  
  It should allow the users to access their data regardless of the channel. So, there should be no wrong door to access the data.
 
 We want to move the management of personal data to the following manner, where decentralised management of data is enabled.
 
-The personal data is stored in so called data pods the way users will have access to their pods is depicted below. The Personal Data Management will also use the CEF component pp-IDM.
+The personal data is stored in so called data pods the way users will have access to their pods is depicted below. .
 
-## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
+Citizens should be able to use the identity of their choosing, in best cases a keychain of identities can be defined, so that users can choose the identity per service.
 
-Add work of Solid
+Cities and regions are perfect candidates to provide personalized data services or to provide personal data to certified services.
+
+Citizens should be able to roam with their data between cities and internationally.
+
+
+
+## Specification <a id="MIM4:PersonalDataManagement-Recommendation"></a>
+
+Today we see a number of initiatives around [MyData.org](https://www.mydata.org) and around the solid initiative of Tim-Berners lee.
 
