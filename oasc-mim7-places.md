@@ -45,11 +45,15 @@ description: 'OASC MIM7: Geospacial Information Management'
 
 ## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
 
+Purpose of the Geospatial Information Management MIM is to handle the geospatial data that is captured in a city. This goes from streetlights, buildings, streets to complete cities and regions. The purpose of this MIM is to make this data interopable across cities, but also to make this data interoperble with the other data captured by a city, like IoT data. 
 
+This MIM will also provide input the MIM2 Data models, in the body of Geospation Data Models.
 
 ## Capabilities
 
 
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
+
+OGC
 
