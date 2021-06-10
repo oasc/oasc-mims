@@ -1,5 +1,5 @@
 ---
-description: 'OASC MIM10: Resource Management'
+description: 'OASC MIM10: Resource Impact Assessment'
 ---
 
 # Resources - MIM10
