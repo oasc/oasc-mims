@@ -32,7 +32,7 @@ description: 'OASC MIM8: Ecosystem indicator management'
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>

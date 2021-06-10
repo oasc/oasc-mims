@@ -34,7 +34,7 @@ description: 'OASC MIM3: Ecosystem Transactions Management'
       <td style="text-align:center"></td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
     </tr>

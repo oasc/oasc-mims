@@ -32,7 +32,7 @@ description: 'OASC MIM9: Data Analytics Management'
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>

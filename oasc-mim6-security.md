@@ -2,7 +2,7 @@
 description: 'OASC MIM6: Security Management'
 ---
 
-# Security - MIM6 \(Davor to review\)
+# Security - MIM6
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 
@@ -32,7 +32,7 @@ description: 'OASC MIM6: Security Management'
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
