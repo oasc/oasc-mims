@@ -2,9 +2,9 @@
 description: 'OASC MIM4: Personal Data Management'
 ---
 
-# Trust - MIM4
+# MIM4 - Trust
 
-## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Status of OASC MIM4: Personal Data Management <a id="MIM1:ContextInformationManagement-Goal"></a>
 
 <table>
   <thead>
@@ -53,7 +53,7 @@ Citizen data is a key element in providing human-centric public services.  The O
 
 ●  Indicate in which circumstances what personal data is ‘free’ to use for which parties through a 'permission arrangement’;
 
-●  Grant consent to providers of the applications and/or services, be it governmental or businesses, that attribute based, decentralized storage and ‘revealing’ of personal data attributes provides full service and access to these applications and/or services;
+●  Grant consent to providers of the applications and/or services, be it governmental or businesses, that attribute based, decentralised storage and ‘revealing’ of personal data attributes provides full service and access to these applications and/or services;
 
 ●  Choose which operator stores personal data and be able to move from operator to operator.
 

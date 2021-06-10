@@ -2,7 +2,7 @@
 description: 'OASC MIM3: Ecosystem Transactions Management'
 ---
 
-# Contracts - MIM3
+# MIM3 - Contracts
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

@@ -12,7 +12,7 @@
 
 {% page-ref page="oasc-mim4-trust/" %}
 
-{% page-ref page="oasc-mim5-transparency/" %}
+{% page-ref page="oasc-mim5-transparency.md" %}
 
 {% page-ref page="oasc-mim6-security.md" %}
 

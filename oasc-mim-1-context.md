@@ -2,7 +2,7 @@
 description: 'OASC MIM1: Context Information Management'
 ---
 
-# Context - MIM1
+# MIM1 - Context
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 

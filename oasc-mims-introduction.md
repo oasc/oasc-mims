@@ -83,7 +83,7 @@ Implementation can be different, as long as crucial interoperability points in a
         <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim5-transparency/"><b>OASC MIM5</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim5-transparency.md"><b>OASC MIM5</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
       style="text-align:center">
         <p>&#x1F4A1;</p>
