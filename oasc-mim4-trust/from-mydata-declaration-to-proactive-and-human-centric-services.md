@@ -1,4 +1,8 @@
-# From MyData Declaration to Proactive and Human-Centric Services
+---
+description: From MyData Declaration to Proactive and Human-Centric Services
+---
+
+# Helsinki Position Paper
 
 **From MyData Declaration to Proactive and Human-Centric Services**
 

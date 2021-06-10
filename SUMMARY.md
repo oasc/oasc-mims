@@ -7,7 +7,7 @@
 * [MIM2 - Data Models](oasc-mim-2-data-models.md)
 * [MIM3 - Contracts](oasc-mim-3-contracts.md)
 * [MIM4 - Trust](oasc-mim4-trust/README.md)
-  * [From MyData Declaration to Proactive and Human-Centric Services](oasc-mim4-trust/from-mydata-declaration-to-proactive-and-human-centric-services.md)
+  * [Helsinki Position Paper](oasc-mim4-trust/from-mydata-declaration-to-proactive-and-human-centric-services.md)
 * [MIM5 - Transparency](oasc-mim5-transparency.md)
 * [MIM6 - Security](oasc-mim6-security.md)
 * [Places - MIM7](oasc-mim7-places.md)
