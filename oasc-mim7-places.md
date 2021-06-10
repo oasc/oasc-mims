@@ -1,8 +1,8 @@
 ---
-description: 'OASC MIM7: Geospacial Information Management'
+description: 'OASC MIM7: Geospatial Information Management'
 ---
 
-# Places - MIM7
+# MIM7 - Places
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 
