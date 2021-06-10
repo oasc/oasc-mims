@@ -2,7 +2,7 @@
 description: 'OASC MIM10: Resource Impact Assessment'
 ---
 
-# Resources - MIM10
+# MIM10 - Resources
 
 ## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 
@@ -46,8 +46,6 @@ description: 'OASC MIM10: Resource Impact Assessment'
 ## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
 
 Interoperable capabilities related to management and assessment of scarcity and resources related to people, nature, and investment.
-
-## Capabilities
 
 
 

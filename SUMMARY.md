@@ -13,7 +13,7 @@
 * [MIM7 - Places](oasc-mim7-places.md)
 * [MIM8 - Indicators](oasc-mim8-indicators.md)
 * [MIM9 - Analytics](oasc-mim9-analytics.md)
-* [Resources - MIM10](oasc-mim10-resources.md)
+* [MIM10 - Resources](oasc-mim10-resources.md)
 * [Resources for developers](oasc-mims-resources-for-developers.md)
 * [Resources for managers](oasc-mims-resources-for-managers.md)
 

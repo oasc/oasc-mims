@@ -45,11 +45,7 @@ description: 'OASC MIM9: Data Analytics Management'
 
 ## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
 
-
-
-## Capabilities
-
-
+Aims to make complex data models interoperable, allowing more efficient analytics and impactful exchange of expertise, to allow cities to leverage each other’s successes in data analytics.Capabilities
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
 
