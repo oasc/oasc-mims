@@ -139,7 +139,7 @@ Implementation can be different, as long as crucial interoperability points in a
       style="text-align:center">&#x1F4A1;
         <br />Work item</td>
         <td style="text-align:left">Resources</td>
-        <td style="text-align:left">Resource Managment</td>
+        <td style="text-align:left">Resource Impact Assesment</td>
         <td style="text-align:left"></td>
     </tr>
   </tbody>
