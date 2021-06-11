@@ -4,7 +4,7 @@ description: 'OASC MIM4: Personal Data Management'
 
 # MIM4 - Trust
 
-## Status of OASC MIM4: Personal Data Management <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
 
 <table>
   <thead>
