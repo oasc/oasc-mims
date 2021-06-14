@@ -101,9 +101,9 @@ Technically, these capabilities can be translated into a metadata API that every
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
 
-Standardised Public Procurement Conditions for Trustworthy AI and Algorithmic Systems by the city of Amsterdam: [https://assets.amsterdam.nl/publish/pages/968697/standard\_clauses\_for\_fair\_use\_of\_algorithmic\_systems.pdf](https://assets.amsterdam.nl/publish/pages/968697/standard_clauses_for_fair_use_of_algorithmic_systems.pdf)
+Standard Clauses For Procurement Of Trustworthy Algorithmic Systems:  [https://www.amsterdam.nl/innovatie/digitalisering-technologie/contractual-terms-for-algorithms/](https://www.amsterdam.nl/innovatie/digitalisering-technologie/contractual-terms-for-algorithms/) 
 
-White Paper on Public AI Registers by the cities of Amsterdam, Helsinki and Saidot: [https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf](https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf) 
+White Paper on Public AI Registers: [https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf](https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf) 
 
 Deliverables of the European Commission AI High-Level Expert Group \(AI HLEG\): [https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai](https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai) 
 
