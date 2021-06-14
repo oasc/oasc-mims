@@ -77,7 +77,7 @@ _Please note that this list purely serves an informational purpose. OASC does no
 
 | **Provider** | **Name** | **Link** |
 | :--- | :--- | :--- |
-| FIWARE | Orion Context Broker | [https://github.com/telefonicaid/fiware-orion](https://github.com/FIWARE/context.Orion-LD) |
+| FIWARE | Orion Context Broker | [https://github.com/FIWARE/context.Orion-LD](https://github.com/FIWARE/context.Orion-LD) |
 | NEC | Scorpio Broker | [https://github.com/ScorpioBroker/ScorpioBroker](https://github.com/ScorpioBroker/ScorpioBroker) |
 | Sensinov | Djane.io | [https://github.com/sensinov/djane](https://github.com/sensinov/djane) |
 | EGM | Stellio Broker | [https://github.com/stellio-hub/stellio-context-broker](https://github.com/stellio-hub/stellio-context-broker) |
