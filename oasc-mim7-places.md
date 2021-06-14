@@ -49,13 +49,19 @@ Specifies how to handle geospatial data, make it interoperable with, within, and
 
 This MIM will also provide input the MIM2 Data models, in the body of Geospatial Data Models.
 
-
-
-
-
 ## Capabilities
 
+Geospatial information contains comprehensive bi-dimensional or tri-dimensional representation and localization about real-world entities defined in a structured way with formal definitions and provides functionalities to enable access to different data sources and analyse spatial information.
 
+It’s crucial to include the geospatial data dimension into smart cities information systems for adding localization capabilities and improving its usage with spatial analysis capabilities.
+
+Discovery and querying of geospatial information, using location and historical criteria can be achieved using Open standard formats, protocols and preferably Open API standard interfaces..
+
+Displaying and viewing of geospatial information, can be achieved using Open standard formats, protocols and preferably Open API standard interfaces.
+
+Retrieving and editing of geospatial information, can be achieved using Open standard formats, protocols and preferably Open API standard interfaces.
+
+Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the MIM2 Data Models.
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
 
