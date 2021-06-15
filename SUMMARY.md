@@ -7,6 +7,7 @@
 * [MIM2 - Data Models](oasc-mim-2-data-models.md)
 * [MIM3 - Contracts](oasc-mim-3-contracts.md)
 * [MIM4 - Trust](oasc-mim4-trust/README.md)
+  * [Untitled](oasc-mim4-trust/untitled.md)
   * [Helsinki Position Paper](oasc-mim4-trust/from-mydata-declaration-to-proactive-and-human-centric-services.md)
   * [Helsinki MyData Operator slides](oasc-mim4-trust/helsinki-mydata-operator-slides.md)
   * [References](oasc-mim4-trust/references.md)
