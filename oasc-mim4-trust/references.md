@@ -12,3 +12,7 @@ The presentation about the MyData.org presentation of Helsinki done by Vastuu.
 
 {% file src="../.gitbook/assets/mim4-intro-28-5-2021.pdf" caption="Mydata.org at Helsinki" %}
 
+Helsinki City position paper: "Towards Interoperable Personal Data Management within Smart Cities: Minimum Interoperability Mechanism 4"
+
+{% file src="../.gitbook/assets/towards-interoperable-pdm-final.pdf" %}
+
