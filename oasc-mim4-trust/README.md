@@ -16,7 +16,7 @@ description: 'OASC MIM4: Personal Data Management'
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
         <p>&#x1F9E9;</p>
-        <p>Capability</p>
+        <p>Capabilities</p>
       </th>
       <th style="text-align:center">&gt;</th>
       <th style="text-align:center">
@@ -34,7 +34,7 @@ description: 'OASC MIM4: Personal Data Management'
     <tr>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>

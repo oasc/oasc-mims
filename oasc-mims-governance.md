@@ -74,7 +74,7 @@ The proposal for a new MIM is prepared by initially one city or partner who then
 After provisional endorsement by the BoD, the finalised proposal for the new MIM is presented to the General Assembly for a vote for formal adoption as a new MIM with the status of 'Work Item'. A WG is established and a call for additional collaborators is made at the GA. Then a one-year process of building, testing, sharing, learning, and reaching out to third parties takes place with the aim of establishing a workable baseline of references to open standards and best practices.
 {% endtab %}
 
-{% tab title="Capability >" %}
+{% tab title="Capabilities >" %}
 🧩   
 The work on the MIM is presented to the CoC and BoD, and offered as a vote item at the GA. By voting favourably, the GA elevates the status from 'Work Item' to an official OASC MIM that can be used by cities and solution providers in various contexts to achieve interoperability.
 {% endtab %}

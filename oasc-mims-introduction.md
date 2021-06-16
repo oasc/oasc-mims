@@ -45,8 +45,8 @@ Implementation can be different, as long as crucial interoperability points in a
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim-2-data-models.md"><b>OASC MIM2</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
       style="text-align:center">
-        <p>&#x1F469;&#x2696;</p>
-        <p>Governance</p>
+        <p>&#x1F3D7;</p>
+        <p>Specification</p>
         </td>
         <td style="text-align:left">Data Models</td>
         <td style="text-align:left">Shared Data Models</td>
@@ -61,8 +61,8 @@ Implementation can be different, as long as crucial interoperability points in a
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim-3-contracts.md"><b>OASC MIM3</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
       style="text-align:center">
-        <p>&#x1F9E9;</p>
-        <p>Capability</p>
+        <p>&#x1F3D7;</p>
+        <p>Specification</p>
         </td>
         <td style="text-align:left">Contracts</td>
         <td style="text-align:left">Ecosystem Transactions Management</td>
@@ -76,8 +76,8 @@ Implementation can be different, as long as crucial interoperability points in a
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim4-trust/"><b>OASC MIM4</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
-      style="text-align:center">&#x1F4A1;
-        <br />Work item</td>
+      style="text-align:center">&#x1F9E9;
+        <br />Capabilities</td>
         <td style="text-align:left">Trust</td>
         <td style="text-align:left">Personal Data Management</td>
         <td style="text-align:left"></td>
@@ -86,8 +86,8 @@ Implementation can be different, as long as crucial interoperability points in a
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="oasc-mim5-transparency.md"><b>OASC MIM5</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
       style="text-align:center">
-        <p>&#x1F4A1;</p>
-        <p>Work item</p>
+        <p>&#x1F9E9;</p>
+        <p>Capabilities</p>
         </td>
         <td style="text-align:left">Transparency</td>
         <td style="text-align:left">Fair Artificial Intelligence</td>
