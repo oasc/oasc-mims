@@ -1,2 +1,0 @@
-# Helsinki MyData Operator slides
-
