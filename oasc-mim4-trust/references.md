@@ -4,6 +4,12 @@ description: References that are used to create this MIM
 
 # References
 
+Helsinki Position Paper : "From MyData Declaration to Proactive and Human-Centric Services" \(2020\)
+
+{% file src="../.gitbook/assets/spaces\_-muhjrpmvzaivjur7wsr\_pdf\_3590797559.pdf" caption="Helsinki MyData Declaration to Proactive and Human-Centric Services" %}
+
+
+
 City of Helsinki Position Paper: "Towards Interoperable Personal Data Management within Smart Cities: Minimum Interoperability Mechanism 4" \(June 2021\):
 
 {% file src="../.gitbook/assets/towards-interoperable-pdm-final.pdf" %}
