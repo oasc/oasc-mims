@@ -18,7 +18,7 @@ City of Helsinki & Vastuu Group Presentation "Minimum Interoperability Mechanism
 
 Personal Data Management: "MIM4 Personal Data Management, Introduction and Specifications" \(May 2021\):
 
-{% file src="../.gitbook/assets/towards-interoperable-pdm-final \(1\).pdf" caption="Towards Interoperable PDM" %}
+{% file src="../.gitbook/assets/2021-05-31-mim4-personal-data-management-specification-final-draft \(1\).pdf" %}
 
 Presentation about SOLID initiative and Flanders Citizens Profile by Raf Verbuyle and Ruben Verborgh:
 
