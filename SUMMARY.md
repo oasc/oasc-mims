@@ -45,5 +45,4 @@
 * [CITYxCITY Catalogue](resources/cityxcity-catalogue.md)
 * [CITYxCITY Festival](resources/cityxcity-festival.md)
 * [LIVING-IN.EU MIMs Plus](resources/living-in.eu-mims-plus.md)
-* [Untitled](resources/untitled.md)
 
