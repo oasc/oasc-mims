@@ -68,7 +68,7 @@ Personal Data Management needs to have an open API in line with MIM1 to broker d
 The PDM needs to be fully compatible with the GDPR and needs to enable users to handle consent, allow and revoke access, and have full transparency on their personal data. Permission management of consent management needs to be handled preferably on attribute level.
 
 The PDM needs to allow users to choose the operator of their data and have a completely free choice to move their data to the operator of their choosing.  
- It should allow the users to access their data regardless of the channel. So, there should be no wrong door to access the data.
+It should allow the users to access their data regardless of the channel. So, there should be no wrong door to access the data.
 
 We want to move the management of personal data to the following manner, where decentralised management of data is enabled.
 
