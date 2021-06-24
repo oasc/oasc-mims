@@ -49,7 +49,11 @@ MIM4 has progressed from Work Item to Capabilities stage after vote at the 2021 
 
 ## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
 
-Citizen data is a key element in providing human-centric public services.  The OASC MIM for Personal Data Management \(MIM4\), proposed by city of Helsinki in June 2020, provides a clear and accessible means for citizens and/or other \(vulnerable\) users to take control of their personal data. MIM4 supports citizens' rights to:
+Citizen data is a key element in providing human-centric public services. MIM4 Personal Data Management \(PDM\) explores the mechanisms for personal data protection, transparency, and trust when sharing personal data between cities. These capabilities are a key part of the digital transformation journey of cities worldwide. 
+
+MIM4 PDM, consists of four layers, Personal Data Operator, personal data platforms, legal framework and technical specification. 
+
+MIM4 PDM supports citizens' rights to:
 
 * Have insight what personal data is available, stored, shared, etc. by the providers of the applications and/or services in use;
 * Change and/or delete part or all personal data available, stored, shared, etc. by the provider of the applications and/or services in use;
@@ -75,6 +79,10 @@ Citizens should be able to use the identity of their choosing, in best cases a k
 Cities and regions are perfect candidates to provide personalised data services or to provide personal data to certified services.
 
 Citizens should be able to roam with their data between cities and internationally.
+
+## References <a id="MIM4:PersonalDataManagement-Recommendation"></a>
+
+We have compiled all references that are an input to this MIM4 PDM on this page [References](references.md)
 
 ## Specification <a id="MIM4:PersonalDataManagement-Recommendation"></a>
 
