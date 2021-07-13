@@ -45,9 +45,7 @@ description: 'OASC MIM7: Geospatial Information Management'
 
 ## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
 
-Specifies how to share spatial (and spatio-temporal) data, make theme interoperable with, within, and between systems and territories. This goes from static data about assets such as street lights, buildings, and streets to spatio-temporal data from sensors. The purpose of this Minimal Interoperability Mechanism (MIM) is to make this data and the way it is shared interoperable across cities, but also among stakeholders within the city. 
-
-This MIM will also provide input to [MIM2 Data models](), in particular regarding data whih has a geospatial dimension.
+Specifies how to share spatial (and spatio-temporal) data, make theme interoperable with, within, and between systems and territories. This goes from static data about assets such as street lights, buildings, and streets to spatio-temporal data from sensors. The purpose of this Minimal Interoperability Mechanism (MIM) is to make this data and the way it is shared interoperable across cities, but also among stakeholders within the city. This MIM will also provide input to [MIM2 Data models](), in particular regarding data whih has a geospatial dimension.
 
 ## Capabilities
 
