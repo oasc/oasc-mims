@@ -77,8 +77,10 @@ The specifications that are subject to adoption are focussing on (i) web interfa
   * OGC Sensor Observation Services \([SOS](https://www.ogc.org/standards/sos)\)
 
 * **API-based family of standards:**
-  * The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards), built upon the legacy of the OGC Web Service standards, to define resource-centric APIs that take advantage of modern web development practices. These standards are web-friendly and are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content. \(The following OGC APIs are at a different stage of development: Features, Common, Maps, Records, Processes, Coverages, Tiles, Environmental Data Retrieval\).
+
+The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards), built upon the legacy of the OGC Web Service standards, to define resource-centric APIs that take advantage of modern web development practices. These standards are web-friendly and are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content. \(The following OGC APIs are at a different stage of development: Features, Common, Maps, Records, Processes, Coverages, Tiles, Environmental Data Retrieval\).
   * The [OGC SensorThings API](https://www.ogc.org/standards/sensorthings), provides an open-source and uniform API to connect IoT devices, data and applications on the Web, it provides a standard way to manage and retrieve observations and metadata from IoT sensors built on the legacy of OGC SOS and SPS.
+  * The [OGC API-Features](https://www.ogc.org/standards/ogcapi-features) xxxxxxxxx.
 
 \*\*\*\*
 
@@ -103,4 +105,7 @@ For the European Union context, non-binding technical approaches are endorsed by
 
 #### Data encoding
 
+#### Validation
+
+An advantage of INSPIRE is the ability to validate metadata, services and data aginst the technical provisions listed above. To this end, an open source reference validator is being used.
 
