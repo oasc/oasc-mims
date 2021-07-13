@@ -34,7 +34,7 @@ description: 'OASC MIM7: Geospatial Information Management'
     <tr>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
@@ -74,7 +74,7 @@ Integrating context information with geospatial information can be enabled by th
 
 
 
-* **European INSPIRE Directive adopted OGC and ISO \(19115/19119/19139\) specifications:**
+* **Standards for implementing European Union's INSPIRE Directive:**
   * Discovery Services \(OGC CSW\)
   * View Services \(OGC WMS\)
   * Download Services \(OGC WFS, WCS, SOS, ATOM Feeds\)
