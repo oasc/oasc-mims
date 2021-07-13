@@ -34,7 +34,7 @@ description: 'OASC MIM7: Geospatial Information Management'
     <tr>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
