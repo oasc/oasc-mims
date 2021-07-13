@@ -62,14 +62,14 @@ Retrieving and editing of geospatial information, can be achieved using Open sta
 Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the MIM2 Data Models.
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
-The specifications that are subject to adoption are focussing on (i) web services for access to data, and (ii) data encoding formats. 
+The specifications that are subject to adoption are focussing on (i) web interfaces for access to data, and (ii) data encoding formats. 
 
-### Web services
+### Web interfaces
 
 
 * **Specifications by the Open Geospatial Consortium \(OGC\)**
 
-  **SOAP-based  family of standards:**
+  **SOAP-based family of standards:**
   * Catalog Service for the Web \([CSW](https://www.ogc.org/standards/cat)\)
   * OGC Web Map Services \([WMS](https://www.ogc.org/standards/wms)\)
   * OGC Web Feature Services \([WFS](https://www.ogc.org/standards/wfs)\)
@@ -77,8 +77,8 @@ The specifications that are subject to adoption are focussing on (i) web service
   * OGC Sensor Observation Services \([SOS](https://www.ogc.org/standards/sos)\)
 
 * **API-based family of standards:**
+  * The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards), built upon the legacy of the OGC Web Service standards, to define resource-centric APIs that take advantage of modern web development practices. These standards are web-friendly and are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content. \(The following OGC APIs are at a different stage of development: Features, Common, Maps, Records, Processes, Coverages, Tiles, Environmental Data Retrieval\).
   * The [OGC SensorThings API](https://www.ogc.org/standards/sensorthings), provides an open-source and uniform API to connect IoT devices, data and applications on the Web, it provides a standard way to manage and retrieve observations and metadata from IoT sensors built on the legacy of OGC SOS and SPS.
-  * The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards), built upon the legacy of OGC Web Service standards, to define resource-centric APIs that take advantage of modern web development practices. These standards are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content. \(OGC APIs: Features, Common, Maps, Records, Processes, Coverages, Tiles, Styles EDR\)
 
 \*\*\*\*
 
@@ -90,13 +90,17 @@ This section specifies data encodings for geospatial data that is also relevant 
   * [CityJSON](https://www.cityjson.org/), a community standard, JSON-based encoding for storing 3D city models, also called digital maquettes or digital twins.
   *  [Industry Foundation Classes](https://technical.buildingsmart.org/standards/ifc) \([IFC](https://technical.buildingsmart.org/standards/ifc/ifc-formats/)\), a buildingSmart open, international standard \([ISO 16739-1:2018](https://www.iso.org/standard/70303.html)\), for a standardized, digital description of the built environment, including buildings and civil infrastructure.
   *  [ISO Observations & Measurements](https://www.ogc.org/standards/om), provides a conceptual model for representing spatio-temporal observation data. Both JSON and XML-based implementations of the conceptual model are available. This data encoding is the default for the OGC Sensor Observation Service (xml-based), and the [Sensing profile](http://docs.opengeospatial.org/is/15-078r6/15-078r6.html) of the OGC SensorThingsAPI.
+  *  [Geopackage](https://www.geopackage.org/) provides an open, compact and efficient format for sharing geospatial data. It is based on an SQLite database and is very well supported by both proprietary and open source software tools.
 
-* **Standards for implementing European Union's INSPIRE Directive:**
-For the European Union context, the following non-binding technical approaches are endorsed.
+### Standards for implementing European Union's INSPIRE Directive
+
+For the European Union context, non-binding technical approaches are endorsed by the INSPIRE Governance bodies. Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The following standards are available:
+
+#### Network services
   * Discovery Services \(OGC CSW\)
   * View Services \(OGC WMS, WMTS\)
   * Download Services \(OGC WFS, WCS, SOS, ATOM Feeds, SensorThingsAPI, [OGC API-Features](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md)\)
-Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases.
 
+#### Data encoding
 
 
