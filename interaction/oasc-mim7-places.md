@@ -45,15 +45,15 @@ description: 'OASC MIM7: Geospatial Information Management'
 
 ## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
 
-Specifies how to handle geospatial data, make it interoperable with, within, and between systems and territories. This goes from streetlights, buildings, streets to complete cities and regions. The purpose of this MIM is to make this data interoperable across cities, but also to make this data interoperable with the other data captured by a city, like IoT data. 
+Specifies how to share spatial (and spatio-temporal) data, make theme interoperable with, within, and between systems and territories. This goes from static data about assets such as street lights, buildings, and streets to spatio-temporal data from sensors. The purpose of this Minimal Interoperability Mechanism (MIM) is to make this data and the way it is shared interoperable across cities, but also among stakeholders within the city. 
 
-This MIM will also provide input the MIM2 Data models, in the body of Geospatial Data Models.
+This MIM will also provide input to [MIM2 Data models](), in particular regarding data whih has a geospatial dimension.
 
 ## Capabilities
 
-Geospatial information contains comprehensive bi-dimensional or tri-dimensional representation and localization about real-world entities defined in a structured way with formal definitions and provides functionalities to enable access to different data sources and analyse spatial information.
+Geospatial information contains comprehensive bi-dimensional or tri-dimensional representation (NOTE: spatio-temporal we can consider four-dimensional) and localization about real-world entities defined in a structured way with formal definitions and provides functionalities to enable access to different data sources and analyse spatial information.
 
-It’s crucial to include the geospatial data dimension into smart cities information systems for adding localization capabilities and improving its usage with spatial analysis capabilities.
+It is essential to include the geospatial data dimension into smart cities information systems for adding localization capabilities and improving its usage with spatial analysis capabilities.
 
 Discovery and querying of geospatial information, using location and historical criteria can be achieved using Open standard formats, protocols and preferably Open API standard interfaces.
 
