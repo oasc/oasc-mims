@@ -67,7 +67,8 @@ The specifications that are subject to adoption are focussing on (i) web service
 ### Web services
 
 
-* **Specifications by the Open Geospatial Consortium \(OGC\):**
+* **Specifications by the Open Geospatial Consortium \(OGC\)**
+
   **SOAP-based  family of standards:**
   * Catalog Service for the Web \([CSW](https://www.ogc.org/standards/cat)\)
   * OGC Web Map Services \([WMS](https://www.ogc.org/standards/wms)\)
@@ -82,7 +83,8 @@ The specifications that are subject to adoption are focussing on (i) web service
 \*\*\*\*
 
 ### Data encoding
-This section specifies data encodings for geospatial data that is also relevant for the provisions of MIM2.
+
+This section specifies data encodings for geospatial data that is also relevant for the provisions of [MIM2]().
 * **Semantic 3D city models or digital twins standards for representing the entities of cities and landscapes.**
   * [CityGML](https://www.ogc.org/standards/citygml), an OGC open data model and XML-based format for the storage and exchange of virtual 3D city models
   * [CityJSON](https://www.cityjson.org/), a community standard, JSON-based encoding for storing 3D city models, also called digital maquettes or digital twins.
@@ -93,7 +95,7 @@ This section specifies data encodings for geospatial data that is also relevant 
 For the European Union context, the following non-binding technical approaches are endorsed.
   * Discovery Services \(OGC CSW\)
   * View Services \(OGC WMS, WMTS\)
-  * Download Services \(OGC WFS, WCS, SOS, ATOM Feeds, SensorThingsAPI, OGC API-Features\)
+  * Download Services \(OGC WFS, WCS, SOS, ATOM Feeds, SensorThingsAPI, [OGC API-Features](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md)\)
 Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases.
 
 
