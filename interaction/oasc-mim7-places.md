@@ -1,5 +1,5 @@
 ---
-description: 'OASC MIM7: Geospatial Information Management'
+description: 'OASC MIM7: Places'
 ---
 
 # MIM7 - Places
