@@ -45,7 +45,7 @@ description: 'OASC MIM7: Places'
 
 ## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
 
-Specifies how to share spatial (and spatio-temporal) data, make them interoperable with, within, and between systems and territories. This goes from static data about assets such as street lights, buildings, and streets to spatio-temporal data from sensors. The purpose of this Minimal Interoperability Mechanism (MIM) is to make this data and the way it is shared interoperable across cities, but also among stakeholders within the same city. This MIM will also provide input to [MIM2 Data models](https://github.com/alexanderkotsev/oasc-mims/blob/1.0.1/architecture-and-data-models/oasc-mim-2-data-models.md), in particular regarding data which has an explicit geospatial dimension.
+Specifies how to share spatial (and spatio-temporal) data, make them interoperable with, within, and between systems and territories. This goes from static data about assets such as street lights, buildings, and streets to spatio-temporal data from sensors. The purpose of this Minimal Interoperability Mechanism (MIM) is to make this data and the way it is shared interoperable across cities, but also among stakeholders within the same city. This MIM will also provide input to [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md), in particular regarding data which has an explicit geospatial dimension.
 
 ## Capabilities
 
@@ -79,14 +79,14 @@ The specifications that are subject to adoption are focussing on (i) web interfa
 * **API-based family of standards:**
 
 The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards) are built upon the legacy of the OGC Web Service standards to define resource-centric APIs that take advantage of modern web development practices. These new standards are web-friendly and are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content. \(The following OGC APIs are at a different stage of development: Features, Common, Maps, Records, Processes, Coverages, Tiles, Environmental Data Retrieval\).
-  * The [OGC SensorThings API](https://www.ogc.org/standards/sensorthings) standard provides an open source and uniform API to connect IoT devices, data and applications on the Web; it provides a standard way to manage and retrieve observations and metadata from IoT sensors built on the legacy of OGC SOS and SPS.
-  * The [OGC API - Features](https://www.ogc.org/standards/ogcapi-features) standard xxxxxxxxx.
+  * The [OGC SensorThings API](https://www.ogc.org/standards/sensorthings) standard provides an open source and uniform API to connect IoT devices, data and applications on the Web; it provides a standard way to manage and retrieve observations and metadata from IoT sensors built on the legacy of OGC SOS and SPS. The SensorThings API standard supports both request-response and asynchronous transactions.
+  * The [OGC API - Features](https://www.ogc.org/standards/ogcapi-features) standard provides a modular, encoding-agnostic and web-friendly means for the exposure of geospatial features on the web.  
 
 \*\*\*\*
 
 ### Data encoding
 
-This section specifies data encodings for geospatial data that is also relevant for the provisions of [MIM2 Data models](https://github.com/alexanderkotsev/oasc-mims/blob/1.0.1/architecture-and-data-models/oasc-mim-2-data-models.md).
+This section specifies data encodings for geospatial data that is also relevant for the provisions of [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md).
 * **Semantic 3D city models or digital twins standards for representing the entities of cities and landscapes.**
   * [CityGML](https://www.ogc.org/standards/citygml), an OGC open data model and XML-based format for the storage and exchange of virtual 3D city models
   * [CityJSON](https://www.cityjson.org/), a community standard, JSON-based encoding for storing 3D city models, also called digital maquettes or digital twins.
@@ -96,7 +96,7 @@ This section specifies data encodings for geospatial data that is also relevant 
 
 ### Standards for implementing European Union's INSPIRE Directive
 
-For the European Union context, non-binding technical approaches are endorsed by the [INSPIRE](https://inspire.ec.europa.eu) Governance bodies. Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The following standards are available:
+For the European Union context, non-binding technical guidelines and good practices are endorsed by the [INSPIRE](https://inspire.ec.europa.eu) Governance bodies. Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The following standards are available:
 
 #### Network services
   * Discovery Services \(OGC CSW\)
@@ -104,6 +104,7 @@ For the European Union context, non-binding technical approaches are endorsed by
   * Download Services \(OGC WFS, WCS, SOS, ATOM Feeds, [SensorThings API](https://github.com/INSPIRE-MIF/gp-ogc-sensorthings-api), [OGC API - Features](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md)\)
 
 #### Data encoding
+  * [GML](https://github.com/INSPIRE-MIF/application-schemas)
   * [GeoJSON](https://github.com/INSPIRE-MIF/2017.2/blob/master/GeoJSON/geojson-encoding-rule.md)
   * [GeoPackage](https://github.com/INSPIRE-MIF/gp-geopackage-encodings)
 
