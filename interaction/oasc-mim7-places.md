@@ -55,7 +55,7 @@ Geospatial information contains comprehensive bi-dimensional or tri-dimensional 
 
 It’s crucial to include the geospatial data dimension into smart cities information systems for adding localization capabilities and improving its usage with spatial analysis capabilities.
 
-Discovery and querying of geospatial information, using location and historical criteria can be achieved using Open standard formats, protocols and preferably Open API standard interfaces..
+Discovery and querying of geospatial information, using location and historical criteria can be achieved using Open standard formats, protocols and preferably Open API standard interfaces.
 
 Displaying and viewing of geospatial information, can be achieved using Open standard formats, protocols and preferably Open API standard interfaces.
 
