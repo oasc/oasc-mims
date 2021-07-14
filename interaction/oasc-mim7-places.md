@@ -76,7 +76,7 @@ The specifications that are subject to adoption are focussing on (i) web interfa
   * OGC Web Coverage Service \([WCS](https://www.ogc.org/standards/wcs)\)
   * OGC Sensor Observation Service \([SOS](https://www.ogc.org/standards/sos)\)
 
-* **API-based family of standards:**
+**API-based family of standards:**
 
 The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards) are built upon the legacy of the OGC Web Service standards to define resource-centric APIs that take advantage of modern web development practices. These new standards are web-friendly and are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content. \(The following OGC APIs are at a different stage of development: Features, Common, Maps, Records, Processes, Coverages, Tiles, Environmental Data Retrieval\).
   * The [OGC SensorThings API](https://www.ogc.org/standards/sensorthings) standard provides an open source and uniform API to connect IoT devices, data and applications on the Web; it provides a standard way to manage and retrieve observations and metadata from IoT sensors built on the legacy of OGC SOS and SPS. The SensorThings API standard supports both request-response and asynchronous transactions.
