@@ -51,22 +51,14 @@ Specifies how to share spatial (and spatio-temporal) data, make them interoperab
 
 Geospatial information contains comprehensive bi-dimensional, tri-dimensional and (when time is also involved) four-dimensional representation and localization about real-world entities defined in a structured way with formal definitions and provides functionalities to enable access to different data sources and analyse spatial information.
 
-It is essential to include the geospatial data dimension into smart cities information systems for adding localization capabilities and improving its usage with spatial analysis capabilities.
-
-Discovery and querying of geospatial information, using location and historical criteria can be achieved using Open standard formats, protocols and preferably Open API standard interfaces.
-
-Displaying and viewing of geospatial information, can be achieved using Open standard formats, protocols and preferably Open API standard interfaces.
-
-Retrieving and editing of geospatial information, can be achieved using Open standard formats, protocols and preferably Open API standard interfaces.
-
-Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the MIM2 Data Models.
+It is essential to include the geospatial data dimension into smart cities information systems for adding localization capabilities and improving its usage with spatial analysis capabilities. The discovery, retrieval, visualisation, querying and editing of geospatial information, using location and historical criteria can be achieved through open standard formats, protocols and preferably through the use of standard-based API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data Models]().
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
 The specifications that are subject to adoption are focussing on (i) web interfaces for access to data, and (ii) data encoding formats. 
 
 ### Web interfaces
 
-* **Specifications by the Open Geospatial Consortium \(OGC\)**
+**Specifications by the Open Geospatial Consortium \(OGC\)**
 
   **SOAP-based family of standards:**
   * Catalog Service for the Web \([CSW](https://www.ogc.org/standards/cat)\)
@@ -87,16 +79,16 @@ The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards) are
 ### Data encoding
 
 This section specifies data encodings for geospatial data that is also relevant for the provisions of [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md).
-* **Semantic 3D city models or digital twins standards for representing the entities of cities and landscapes.**
+* Semantic 3D city models or digital twins standards for representing the entities of cities and landscapes.
   * [CityGML](https://www.ogc.org/standards/citygml), an OGC open data model and XML-based format for the storage and exchange of virtual 3D city models
   * [CityJSON](https://www.cityjson.org/), a community standard, JSON-based encoding for storing 3D city models, also called digital maquettes or digital twins.
-  * [Industry Foundation Classes](https://technical.buildingsmart.org/standards/ifc) \([IFC](https://technical.buildingsmart.org/standards/ifc/ifc-formats/)\), a buildingSmart open, international standard \([ISO 16739-1:2018](https://www.iso.org/standard/70303.html)\), for a standardized, digital description of the built environment, including buildings and civil infrastructure.
-  *  [ISO Observations & Measurements](https://www.ogc.org/standards/om), providing a conceptual model for representing spatio-temporal observation data. Both JSON and XML-based implementations of the conceptual model are available. This data encoding is the default for the OGC Sensor Observation Service (xml-based), and the [Sensing profile](http://docs.opengeospatial.org/is/15-078r6/15-078r6.html) of the OGC SensorThings API.
-  *  [GeoPackage](https://www.geopackage.org/) provides an open, compact and efficient format for sharing geospatial data. It is based on an SQLite database and is very well supported by both proprietary and open source software tools.
+* [Industry Foundation Classes](https://technical.buildingsmart.org/standards/ifc) \([IFC](https://technical.buildingsmart.org/standards/ifc/ifc-formats/)\), a buildingSmart open, international standard \([ISO 16739-1:2018](https://www.iso.org/standard/70303.html)\), for a standardized, digital description of the built environment, including buildings and civil infrastructure.
+*  [ISO Observations & Measurements](https://www.ogc.org/standards/om), providing a conceptual model for representing spatio-temporal observation data. Both JSON and XML-based implementations of the conceptual model are available. This data encoding is the default for the OGC Sensor Observation Service (xml-based), and the [Sensing profile](http://docs.opengeospatial.org/is/15-078r6/15-078r6.html) of the OGC SensorThings API.
+*  [GeoPackage](https://www.geopackage.org/) provides an open, compact and efficient format for sharing geospatial data. It is based on an SQLite database and is very well supported by both proprietary and open source software tools.
 
 ### Standards for implementing European Union's INSPIRE Directive
 
-For the European Union context, non-binding technical guidelines and good practices are endorsed by the [INSPIRE](https://inspire.ec.europa.eu) Governance bodies. Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The following standards are available:
+For the European Union context, non-binding [technical guidelines]() and [good practices]() are available for implementing the legal provisions of the [INSPIRE Directive](https://inspire.ec.europa.eu). Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The governance of the technical specifications is ensured by the INSPIRE Maintenance and Implementation group (MIG), and its permanent technical sub-group (MIG-T). The following standards are available:
 
 #### Network services
   * Discovery Services \(OGC CSW\)
