@@ -49,9 +49,9 @@ Specifies how to share spatial (and spatio-temporal) data, make them interoperab
 
 ## Capabilities
 
-Geospatial information contains comprehensive bi-dimensional, tri-dimensional and (when time is also involved) four-dimensional representation and localization about real-world entities defined in a structured way with formal definitions and provides functionalities to enable access to different data sources and analyse spatial information.
+Geospatial information contains comprehensive bi-dimensional, tri-dimensional and (when time is also involved) four-dimensional representationof  real-world entities defined in a structured way. Different datasets can easily be combined based on location. In addition, powerful spatial analyses can be operformed that give important insights to different stakeholders in the city. It is therefore essential to include the geospatial data dimension into smart cities information systems. 
 
-It is essential to include the geospatial data dimension into smart cities information systems for adding localization capabilities and improving its usage with spatial analysis capabilities. The discovery, retrieval, visualisation, querying and editing of geospatial information, using location and historical criteria can be achieved through open standard formats, protocols and preferably through the use of standard-based API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data Models]().
+The discovery, retrieval, visualisation, querying and editing of geospatial information based on location and historical criteria can be achieved through open standard formats, protocols and preferably through the use of standard-based API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md).
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
 The specifications that are subject to adoption are focussing on (i) web interfaces for access to data, and (ii) data encoding formats. 
@@ -59,6 +59,8 @@ The specifications that are subject to adoption are focussing on (i) web interfa
 ### Web interfaces
 
 **Specifications by the Open Geospatial Consortium \(OGC\)**
+
+Those standards are mature, well-known by the geospatial community and supported by a wide number of client and server implementations.
 
   **SOAP-based family of standards:**
   * Catalog Service for the Web \([CSW](https://www.ogc.org/standards/cat)\)
