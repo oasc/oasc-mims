@@ -95,9 +95,10 @@ This section specifies data encodings for geospatial data that is also relevant 
 For the European Union context, non-binding [technical guidelines](https://inspire.ec.europa.eu/Technical-Guidelines) and [good practices](https://inspire.ec.europa.eu/portfolio/good-practice-library) are available for implementing the legal provisions of the [INSPIRE Directive](https://inspire.ec.europa.eu). Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The governance of the technical specifications is ensured by the INSPIRE Maintenance and Implementation group (MIG), and its permanent technical sub-group (MIG-T). The following standards are available:
 
 #### Network services
-  * Discovery Services \(OGC CSW\)
-  * View Services \(OGC WMS, WMTS\)
-  * Download Services \(OGC WFS, WCS, SOS, ATOM Feeds, [SensorThings API](https://github.com/INSPIRE-MIF/gp-ogc-sensorthings-api), [OGC API - Features](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md)\)
+NSPIRE Network Services specify common interfaces for web services. Dedicated technical guidelines are made available for: 
+  * Discovery Services \([OGC CSW](https://inspire.ec.europa.eu/documents/technical-guidance-implementation-inspire-discovery-services-0)\)
+  * View Services \([OGC WMS, WMTS](https://inspire.ec.europa.eu/documents/technical-guidance-implementation-inspire-view-services-1)\)
+  * Download Services \([OGC WFS](https://inspire.ec.europa.eu/documents/technical-guidance-implementation-inspire-download-services), [WCS](https://inspire.ec.europa.eu/id/document/tg/download-wcs), [SOS](https://inspire.ec.europa.eu/id/document/tg/download-sos), [ATOM Feeds](https://inspire.ec.europa.eu/documents/technical-guidance-implementation-inspire-download-services), [SensorThings API](https://github.com/INSPIRE-MIF/gp-ogc-sensorthings-api), [OGC API - Features](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md)\)
 
 #### Data encoding
 The [INSPIRE data specifications](https://inspire.ec.europa.eu/Technical-Guidelines) define common data models, code lists, map layers and additional metadata on the interoperability to be used when exchanging spatial datasets. In addition, a dedicated [Location Core Vocabulary](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/core-location-vocabulary/release/100) provides a minimum set of classes and properties for describing a location represented as an address, a geographic name, or a geometry.
