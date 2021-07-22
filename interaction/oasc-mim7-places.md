@@ -49,34 +49,36 @@ Specifies how to share spatial (and spatio-temporal) data, make them interoperab
 
 ## Capabilities
 
-Geospatial information contains comprehensive bi-dimensional, tri-dimensional and (when time is also involved) four-dimensional representationof  real-world entities defined in a structured way. Different datasets can easily be combined based on location. In addition, powerful spatial analyses can be operformed that give important insights to different stakeholders in the city. It is therefore essential to include the geospatial data dimension into smart cities information systems. 
+Geospatial information contains comprehensive bi-dimensional, tri-dimensional and (when time is also involved) four-dimensional representationof  real-world entities defined in a structured way. Different datasets can easily be combined based on location. In addition, powerful spatial analyses and sophisticated visualisation can be performed that provide important insights to different stakeholders in the city. It is therefore essential to include the geospatial data dimension into smart city information systems. 
 
-The discovery, retrieval, visualisation, querying and editing of geospatial information based on location and historical criteria can be achieved through open standard formats, protocols and preferably through the use of standard-based API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md).
+The discovery, querying, retrieval, visualisation, and editing of geospatial information based on location and temporal criteria can be achieved through open standard formats, protocols and preferably through the use of standardised API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md).
 
 ## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
-The specifications that are subject to adoption are focussing on (i) web interfaces for access to data, and (ii) data encoding formats. 
+The specifications that are subject to adoption are focussing on (i) web interfaces for discovery and access to data, and (ii) data encoding formats. 
 
-### Web interfaces
+### Web Interfaces
 
 **Specifications by the Open Geospatial Consortium \(OGC\)**
 
-Those standards are mature, well-known by the geospatial community and supported by a wide number of client and server implementations.
+  **OWS-based family of standards:**
 
-  **SOAP-based family of standards:**
-  * Catalog Service for the Web \([CSW](https://www.ogc.org/standards/cat)\)
-  * OGC Web Map Service \([WMS](https://www.ogc.org/standards/wms)\)
-  * OGC Web Map Tile Service \([WMTS](https://www.ogc.org/standards/wmts)\)
-  * OGC Web Feature Service \([WFS](https://www.ogc.org/standards/wfs)\)
-  * OGC Web Coverage Service \([WCS](https://www.ogc.org/standards/wcs)\)
-  * OGC Sensor Observation Service \([SOS](https://www.ogc.org/standards/sos)\)
+Those [OGC Web Services]() standards follow the same conceptual model. They are mature, well-known by the geospatial community and supported by a wide number of client and server implementations.
+
+* Catalogue Service for the Web \([CSW](https://www.ogc.org/standards/cat)\)
+* OGC Web Map Service \([WMS](https://www.ogc.org/standards/wms)\)
+* OGC Web Map Tile Service \([WMTS](https://www.ogc.org/standards/wmts)\)
+* OGC Web Feature Service \([WFS](https://www.ogc.org/standards/wfs)\)
+* OGC Web Coverage Service \([WCS](https://www.ogc.org/standards/wcs)\)
+* OGC Sensor Observation Service \([SOS](https://www.ogc.org/standards/sos)\)
 
 **API-based family of standards:**
 
 The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards) are built upon the legacy of the OGC Web Service standards to define resource-centric APIs that take advantage of modern web development practices. These new standards are web-friendly and are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content. \(The following OGC APIs are at a different stage of development: Features, Common, Maps, Records, Processes, Coverages, Tiles, Environmental Data Retrieval\).
-  * The [OGC SensorThings API](https://www.ogc.org/standards/sensorthings) standard provides an open source and uniform API to connect IoT devices, data and applications on the Web; it provides a standard way to manage and retrieve observations and metadata from IoT sensors built on the legacy of OGC SOS and SPS. The SensorThings API standard supports both request-response and asynchronous transactions.
+  * The [OGC SensorThings API](https://www.ogc.org/standards/sensorthings) standard provides an open source and uniform API to connect IoT devices, data and applications on the Web; it provides a standard way to manage and retrieve observations and metadata from IoT sensors built on the legacy of the OGC SOS and SPS. The SensorThings API standard supports both request-response and asynchronous transactions.
   * The [OGC API - Features](https://www.ogc.org/standards/ogcapi-features) standard provides a modular, encoding-agnostic and web-friendly means for the exposure of geospatial features on the web.  
 
 \*\*\*\*
+
 
 ### Data encoding
 
@@ -84,7 +86,7 @@ This section specifies data encodings for geospatial data that is also relevant 
 * Semantic 3D city models or digital twins standards for representing the entities of cities and landscapes.
   * [CityGML](https://www.ogc.org/standards/citygml), an OGC open data model and XML-based format for the storage and exchange of virtual 3D city models
   * [CityJSON](https://www.cityjson.org/), a community standard, JSON-based encoding for storing 3D city models, also called digital maquettes or digital twins.
-* [Industry Foundation Classes](https://technical.buildingsmart.org/standards/ifc) \([IFC](https://technical.buildingsmart.org/standards/ifc/ifc-formats/)\), a buildingSmart open, international standard \([ISO 16739-1:2018](https://www.iso.org/standard/70303.html)\), for a standardized, digital description of the built environment, including buildings and civil infrastructure.
+* [Industry Foundation Classes](https://technical.buildingsmart.org/standards/ifc) \([IFC](https://technical.buildingsmart.org/standards/ifc/ifc-formats/)\), a buildingSmart open, international standard \([ISO 16739-1:2018](https://www.iso.org/standard/70303.html)\), for a standardised, digital description of the built environment, including buildings and civil infrastructure.
 *  [ISO Observations & Measurements](https://www.ogc.org/standards/om), providing a conceptual model for representing spatio-temporal observation data. Both JSON and XML-based implementations of the conceptual model are available. This data encoding is the default for the OGC Sensor Observation Service (xml-based), and the [Sensing profile](http://docs.opengeospatial.org/is/15-078r6/15-078r6.html) of the OGC SensorThings API.
 *  [GeoPackage](https://www.geopackage.org/) provides an open, compact and efficient format for sharing geospatial data. It is based on an SQLite database and is very well supported by both proprietary and open source software tools.
 
