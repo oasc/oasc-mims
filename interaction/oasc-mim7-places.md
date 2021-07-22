@@ -62,14 +62,14 @@ The specifications that are subject to adoption are focussing on (i) web interfa
 
   **OWS-based family of standards:**
 
-Those [OGC Web Services]() standards follow the same conceptual model. They are mature, well-known by the geospatial community and supported by a wide number of client and server implementations.
+Those [OGC Web Services](https://www.ogc.org/standards/owc) standards follow the same conceptual model. They are mature, well-known by the geospatial community and supported by a wide number of client and server implementations.
 
 * Catalogue Service for the Web \([CSW](https://www.ogc.org/standards/cat)\)
-* OGC Web Map Service \([WMS](https://www.ogc.org/standards/wms)\)
-* OGC Web Map Tile Service \([WMTS](https://www.ogc.org/standards/wmts)\)
-* OGC Web Feature Service \([WFS](https://www.ogc.org/standards/wfs)\)
-* OGC Web Coverage Service \([WCS](https://www.ogc.org/standards/wcs)\)
-* OGC Sensor Observation Service \([SOS](https://www.ogc.org/standards/sos)\)
+* Web Map Service \([WMS](https://www.ogc.org/standards/wms)\)
+* Web Map Tile Service \([WMTS](https://www.ogc.org/standards/wmts)\)
+* Web Feature Service \([WFS](https://www.ogc.org/standards/wfs)\)
+* Web Coverage Service \([WCS](https://www.ogc.org/standards/wcs)\)
+* Sensor Observation Service \([SOS](https://www.ogc.org/standards/sos)\)
 
 **API-based family of standards:**
 
