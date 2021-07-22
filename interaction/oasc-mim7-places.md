@@ -49,7 +49,7 @@ Specifies how to share spatial (and spatio-temporal) data, make them interoperab
 
 ## Capabilities
 
-Geospatial information contains comprehensive bi-dimensional, tri-dimensional and (when time is also involved) four-dimensional representationof  real-world entities defined in a structured way. Different datasets can easily be combined based on location. In addition, powerful spatial analyses and sophisticated visualisation can be performed that provide important insights to different stakeholders in the city. It is therefore essential to include the geospatial data dimension into smart city information systems. 
+Geospatial information contains comprehensive bi-dimensional, tri-dimensional and (when time is also involved) four-dimensional representation of real-world entities defined in a structured way. Different datasets can easily be combined based on location. In addition, powerful spatial analyses and sophisticated visualisation can be performed that provide important insights to different stakeholders in the city. It is therefore essential to include the geospatial data dimension into smart city information systems. 
 
 The discovery, querying, retrieval, visualisation, and editing of geospatial information based on location and temporal criteria can be achieved through open standard formats, protocols and preferably through the use of standardised API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md).
 
@@ -92,7 +92,7 @@ This section specifies data encodings for geospatial data that is also relevant 
 
 ### Standards for implementing European Union's INSPIRE Directive
 
-For the European Union context, non-binding [technical guidelines]() and [good practices]() are available for implementing the legal provisions of the [INSPIRE Directive](https://inspire.ec.europa.eu). Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The governance of the technical specifications is ensured by the INSPIRE Maintenance and Implementation group (MIG), and its permanent technical sub-group (MIG-T). The following standards are available:
+For the European Union context, non-binding [technical guidelines](https://inspire.ec.europa.eu/Technical-Guidelines/Data-Specifications/2892) and [good practices](https://inspire.ec.europa.eu/portfolio/good-practice-library) are available for implementing the legal provisions of the [INSPIRE Directive](https://inspire.ec.europa.eu). Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The governance of the technical specifications is ensured by the INSPIRE Maintenance and Implementation group (MIG), and its permanent technical sub-group (MIG-T). The following standards are available:
 
 #### Network services
   * Discovery Services \(OGC CSW\)
