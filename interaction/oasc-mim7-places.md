@@ -92,7 +92,7 @@ This section specifies data encodings for geospatial data that is also relevant 
 
 ### Standards for implementing European Union's INSPIRE Directive
 
-For the European Union context, non-binding [technical guidelines](https://inspire.ec.europa.eu/Technical-Guidelines/Data-Specifications/2892) and [good practices](https://inspire.ec.europa.eu/portfolio/good-practice-library) are available for implementing the legal provisions of the [INSPIRE Directive](https://inspire.ec.europa.eu). Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The governance of the technical specifications is ensured by the INSPIRE Maintenance and Implementation group (MIG), and its permanent technical sub-group (MIG-T). The following standards are available:
+For the European Union context, non-binding [technical guidelines](https://inspire.ec.europa.eu/Technical-Guidelines) and [good practices](https://inspire.ec.europa.eu/portfolio/good-practice-library) are available for implementing the legal provisions of the [INSPIRE Directive](https://inspire.ec.europa.eu). Technical specifications are made available for each standard, which enable data providers to choose a particular solution based on the specific needs and concrete use cases. The governance of the technical specifications is ensured by the INSPIRE Maintenance and Implementation group (MIG), and its permanent technical sub-group (MIG-T). The following standards are available:
 
 #### Network services
   * Discovery Services \(OGC CSW\)
@@ -100,11 +100,14 @@ For the European Union context, non-binding [technical guidelines](https://inspi
   * Download Services \(OGC WFS, WCS, SOS, ATOM Feeds, [SensorThings API](https://github.com/INSPIRE-MIF/gp-ogc-sensorthings-api), [OGC API - Features](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md)\)
 
 #### Data encoding
+The [INSPIRE data specifications](https://inspire.ec.europa.eu/Technical-Guidelines) define common data models, code lists, map layers and additional metadata on the interoperability to be used when exchanging spatial datasets. In addition, a dedicated [Location Core Vocabulary](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/core-location-vocabulary/release/100) provides a minimum set of classes and properties for describing a location represented as an address, a geographic name, or a geometry.
+
   * [GML](https://github.com/INSPIRE-MIF/application-schemas)
   * [GeoJSON](https://github.com/INSPIRE-MIF/2017.2/blob/master/GeoJSON/geojson-encoding-rule.md)
   * [GeoPackage](https://github.com/INSPIRE-MIF/gp-geopackage-encodings)
 
+
 #### Validation
 
-An advantage of INSPIRE is the ability to validate metadata, services and data aginst the technical provisions listed above. To this end, the [INSPIRE reference validator](https://inspire.ec.europa.eu/validator/), fully based on open source components, is being used.
+An advantage of INSPIRE is the ability to validate metadata, services and data against the technical provisions listed above. To this end, the [INSPIRE reference validator](https://inspire.ec.europa.eu/validator/), fully based on open source components, is being used. Local instances of the tool can be deployed within the cities own infrastructures in addition to the centrally available solution.
 
