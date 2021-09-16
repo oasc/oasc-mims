@@ -40,12 +40,3 @@ Presenters: Raf Buyle, Ruben Verborgh
 Orgs: Information Flanders, Ghent University / IMEC
 {% endhint %}
 
-### Paper : "From MyData Declaration to Proactive and Human-Centric Services" \(2020\)
-
-{% file src="../../.gitbook/assets/spaces\_-muhjrpmvzaivjur7wsr\_pdf\_3590797559.pdf" caption="Helsinki MyData Declaration to Proactive and Human-Centric Services" %}
-
-{% hint style="info" %}
-Authors: Mikko Rusama, Mika Huhtamäki  
-Orgs: City of Helsinki, Vastuu Group
-{% endhint %}
-
