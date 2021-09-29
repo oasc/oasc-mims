@@ -38,14 +38,6 @@
 
 ## OASC Working Groups
 
-{% page-ref page="oasc-working-groups/data-models-and-architecture-wg.md" %}
-
-{% page-ref page="oasc-working-groups/interaction-wg.md" %}
-
-{% page-ref page="oasc-working-groups/integrity-wg.md" %}
-
-{% page-ref page="oasc-working-groups/impact-wg.md" %}
-
 ## Resources
 
 {% page-ref page="resources/oasc-mims-resources-for-managers.md" %}

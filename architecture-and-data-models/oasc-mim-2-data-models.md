@@ -9,20 +9,20 @@ description: 'OASC MIM2: Shared Data models'
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">&#x1F4A1;
+      <th style="text-align:left">&#x1F4A1;
         <br />Work Item</th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
+      <th style="text-align:left">&gt;</th>
+      <th style="text-align:left">
         <p>&#x1F9E9;</p>
         <p>Capabilities</p>
       </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
+      <th style="text-align:left">&gt;</th>
+      <th style="text-align:left">
         <p>&#x1F3D7;</p>
         <p>Specification</p>
       </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
+      <th style="text-align:left">&gt;</th>
+      <th style="text-align:left">
         <p>&#x1F469;&#x2696;</p>
         <p>Governance</p>
       </th>
@@ -30,13 +30,13 @@ description: 'OASC MIM2: Shared Data models'
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:left">&#x2705;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x2705;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">&#x2705;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
@@ -67,7 +67,7 @@ Harmonization across data models help in supporting different data models again 
 * SAREF: Smart Appliances REFerence \(SAREF\) ontology specified by ETSI OneM2M committee with the extension of SAREF4Cities provides an ontology focused on smart cities
 * Core vocabularies of ISA like Core Public Service Vocabulary Application Profile used as the basis for the Single Digital Gateway Regulation that touches local governments, Core Person, Core Organization etc
 * DTDL is the Digital twin Definition Language developed by Microsoft. This language is based on top op json-ld and the existing Fiware data models are converted in this format.
-* For spatial (and spatio-tempopral) observation data the provisions of [MIM-7 (Places)](../interaction/oasc-mim7-places.md) about data encoding have to be taken into consideration.
+* For spatial \(and spatio-tempopral\) observation data the provisions of [MIM-7 \(Places\)](../interaction/oasc-mim7-places.md) about data encoding have to be taken into consideration.
 
 {% hint style="info" %}
 Unfinished page

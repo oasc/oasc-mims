@@ -1,2 +1,0 @@
-# Data Models & Architecture WG
-

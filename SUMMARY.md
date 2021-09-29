@@ -33,11 +33,6 @@
 
 ## OASC Working Groups
 
-* [Data Models & Architecture WG](oasc-working-groups/data-models-and-architecture-wg.md)
-* [Interaction WG](oasc-working-groups/interaction-wg.md)
-* [Integrity WG](oasc-working-groups/integrity-wg.md)
-* [Impact WG](oasc-working-groups/impact-wg.md)
-
 ## Resources \(work in progress\) <a id="resources"></a>
 
 * [CITyxCITY Academy](resources/oasc-mims-resources-for-managers.md)
