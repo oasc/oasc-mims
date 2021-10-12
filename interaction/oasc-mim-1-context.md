@@ -4,50 +4,17 @@ description: 'OASC MIM1: Context Information Management'
 
 # MIM1 - Context
 
-## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Status <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">
-        <p>&#x1F4A1;</p>
-        <p>Work Item</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F9E9;</p>
-        <p>Capabilities</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F3D7;</p>
-        <p>Specification</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F469;&#x2696;</p>
-        <p>Governance</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-    </tr>
-  </tbody>
-</table>
+| <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span> </p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span> </p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span> </p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span> </p><p>Governance</p> |  >  |  >  |  >  |
+| :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-: | :-: | :-: |
+|                                        :white_check_mark:                                        |                                          :white_check_mark:                                         |                                          :white_check_mark:                                          |                                            :white_check_mark:                                           |     |     |     |
 
-## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Objectives <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
-Context information management ensures comprehensive and integrated access, use, sharing, and management of data across different solutions and purposes. It manages the context information coming from Internet of Things \(IoT\) devices and other public and private data sources providing cross cutting context data and access through a uniform interface.
+Context information management ensures comprehensive and integrated access, use, sharing, and management of data across different solutions and purposes. It manages the context information coming from Internet of Things (IoT) devices and other public and private data sources providing cross cutting context data and access through a uniform interface.
 
-## Capabilities <a id="MIM1:ContextInformationManagement-Capabilities"></a>
+## Capabilities <a href="mim1-contextinformationmanagement-capabilities" id="mim1-contextinformationmanagement-capabilities"></a>
 
 Context information contains comprehensive status information about real-world entities defined in a structured way with formal definitions and provides functionalities to enable access to different data sources and analyse context information, e.g. for detecting events.
 
@@ -59,28 +26,28 @@ Discovery and querying of information, both current and historical, is possible,
 
 Applications can subscribe to changes of information so that they are always aware of the current and latest status.
 
-The implementation across \(and even within\) the city, or any application ecosystem, can be very diverse and heterogeneous. An agreement on the interfaces is necessary to be able to access the information. This is enabled by the context management API and the data information models.
+The implementation across (and even within) the city, or any application ecosystem, can be very diverse and heterogeneous. An agreement on the interfaces is necessary to be able to access the information. This is enabled by the context management API and the data information models.
 
-## Specifications <a id="MIM1:ContextInformationManagement-Recommendation"></a>
+## Specifications <a href="mim1-contextinformationmanagement-recommendation" id="mim1-contextinformationmanagement-recommendation"></a>
 
 All documents and deliverables can be found 
 
-| **Standard** | Aspect | **Reference** |
-| :--- | :--- | :--- |
+| **Standard**     | Aspect                  | **Reference**                                                                |
+| ---------------- | ----------------------- | ---------------------------------------------------------------------------- |
 | **ETSI NGSI-LD** | **Group Specification** | [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/) |
 
-## ETSI NGSI-LD Reference Implementations <a id="MIM1:ContextInformationManagement-ETSINGSI-LDReferenceImplementations"></a>
+## ETSI NGSI-LD Reference Implementations <a href="mim1-contextinformationmanagement-etsingsi-ldreferenceimplementations" id="mim1-contextinformationmanagement-etsingsi-ldreferenceimplementations"></a>
 
 The below table lists reference implementations of the NGSI standard known to OASC. If you are aware of other reference implementations please share them in the comments section.
 
 _Please note that this list purely serves an informational purpose. OASC does not guarantee that the listed reference implementations are operational with local technical environments and OASC cannot be held responsible for the listed implementations._
 
-| **Provider** | **Name** | **Link** |
-| :--- | :--- | :--- |
-| FIWARE | Orion Context Broker | [https://github.com/FIWARE/context.Orion-LD](https://github.com/FIWARE/context.Orion-LD) |
-| NEC | Scorpio Broker | [https://github.com/ScorpioBroker/ScorpioBroker](https://github.com/ScorpioBroker/ScorpioBroker) |
-| Sensinov | Djane.io | [https://github.com/sensinov/djane](https://github.com/sensinov/djane) |
-| EGM | Stellio Broker | [https://github.com/stellio-hub/stellio-context-broker](https://github.com/stellio-hub/stellio-context-broker) |
+| **Provider** | **Name**             | **Link**                                                                                                       |
+| ------------ | -------------------- | -------------------------------------------------------------------------------------------------------------- |
+| FIWARE       | Orion Context Broker | [https://github.com/FIWARE/context.Orion-LD](https://github.com/FIWARE/context.Orion-LD)                       |
+| NEC          | Scorpio Broker       | [https://github.com/ScorpioBroker/ScorpioBroker](https://github.com/ScorpioBroker/ScorpioBroker)               |
+| Sensinov     | Djane.io             | [https://github.com/sensinov/djane](https://github.com/sensinov/djane)                                         |
+| EGM          | Stellio Broker       | [https://github.com/stellio-hub/stellio-context-broker](https://github.com/stellio-hub/stellio-context-broker) |
 
 {% hint style="info" %}
 We are updating this list
@@ -88,5 +55,4 @@ We are updating this list
 
 ## Verification
 
-ETSI organized a Testing Task Force \(TTF\) to create a Testing toolkit to validate context brokers towards the NGSI-LD specification. EGM, Ubiwhere and OASC collaborated on this task force to create this toolkit. The result was a set of clear defined test descriptions, test purposes and executable robot scripts. All this information can be found on the ETSI CIM Website [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/)**.**
-
+ETSI organized a Testing Task Force (TTF) to create a Testing toolkit to validate context brokers towards the NGSI-LD specification. EGM, Ubiwhere and OASC collaborated on this task force to create this toolkit. The result was a set of clear defined test descriptions, test purposes and executable robot scripts. All this information can be found on the ETSI CIM Website [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/)**.**
