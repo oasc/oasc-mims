@@ -4,53 +4,20 @@ description: 'OASC MIM5: Fair and Transparent Artificial Intelligence'
 
 # MIM5 - Transparency
 
-## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Status <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">
-        <p>&#x1F4A1;</p>
-        <p>Work Item</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F9E9;</p>
-        <p>Capabilities</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F3D7;</p>
-        <p>Specification</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F469;&#x2696;</p>
-        <p>Governance</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-    </tr>
-  </tbody>
-</table>
+| <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span> </p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span> </p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span> </p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span> </p><p>Governance</p> |
+| :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|                                        :white_check_mark:                                        |                                         :white_check_mark:                                          |                                                                                                      |                                                                                                         |
 
 ## Objectives
 
-  
-Governments, including local governments, are increasingly seeking to capture the opportunities offered by automated decision-making using algorithmic systems, to improve their services. However, government agencies and the general public have justified concerns over bias, privacy, accountability, and transparency of such automated decision-making processes. New examples continue to emerge of potential negative consequences from the inappropriate use of \(‘black box’\) algorithms. 
+\
+Governments, including local governments, are increasingly seeking to capture the opportunities offered by automated decision-making using algorithmic systems, to improve their services. However, government agencies and the general public have justified concerns over bias, privacy, accountability, and transparency of such automated decision-making processes. New examples continue to emerge of potential negative consequences from the inappropriate use of (‘black box’) algorithms. 
 
 Here we define "Algorithmic System" as: "software that automatically makes predictions, makes decisions and/or gives advice by using data analysis, statistics and/or self-learning logic."
 
-An automated decision-making algorithmic system does not necessarily require any form of self-learning logic \(such as machine learning\). In actual practice, software is often used that does not contain any self-learning logic, but the application of which may have great and sometimes unknown or unintended impact on citizens. 
+An automated decision-making algorithmic system does not necessarily require any form of self-learning logic (such as machine learning). In actual practice, software is often used that does not contain any self-learning logic, but the application of which may have great and sometimes unknown or unintended impact on citizens. 
 
 To provide citizens and governments at all levels with a proper process to mitigate risk, Amsterdam city council, along with some other cities, proposed the Fair AI MIM 5 as part of their work to develop a European norm for procurement rules for government agencies to use when procuring algorithmic systems to support automated decision-making. Alongside this, guidance is being developed in different global regions regarding the actions that government agencies themselves need to take to assess the level of impact and to make sure that automated decision-making is trusted, fair and transparent. This will include providing channels for citizens to query the decision-making process and involving citizens in co-designing the algorithmic systems. Most importantly there is the need to ensure that the data used by those systems is accurate and appropriate e.g. through publicly available algorithmic registries.
 
@@ -58,7 +25,7 @@ The OASC MIM 5 will match these activities by focusing on the technical capabili
 
 ## Capabilities
 
-  
+\
 In order to match the procurement norm being developed, the following are the set of six minimal requirements for suppliers of algorithmic systems to ensure that these are fair, trustworthy and transparent.
 
 **Procedural Transparency**
@@ -99,11 +66,10 @@ Technically, these capabilities can be translated into a metadata API that every
 
 
 
-## Specifications <a id="MIM3:EcosystemTransactionManagement-Recommendedspecifications"></a>
+## Specifications <a href="mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
 
 Standard Clauses For Procurement Of Trustworthy Algorithmic Systems:  [https://www.amsterdam.nl/innovatie/digitalisering-technologie/contractual-terms-for-algorithms/](https://www.amsterdam.nl/innovatie/digitalisering-technologie/contractual-terms-for-algorithms/) 
 
 White Paper on Public AI Registers: [https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf](https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf) 
 
-Deliverables of the European Commission AI High-Level Expert Group \(AI HLEG\): [https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai](https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai) 
-
+Deliverables of the European Commission AI High-Level Expert Group (AI HLEG): [https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai](https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai) 

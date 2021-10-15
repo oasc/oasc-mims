@@ -4,52 +4,19 @@ description: 'OASC MIM4: Personal Data Management'
 
 # MIM4 - Trust
 
-## Status <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Status <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">
-        <p>&#x1F4A1;</p>
-        <p>Work Item</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F9E9;</p>
-        <p>Capabilities</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F3D7;</p>
-        <p>Specification</p>
-      </th>
-      <th style="text-align:center">&gt;</th>
-      <th style="text-align:center">
-        <p>&#x1F469;&#x2696;</p>
-        <p>Governance</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
-    </tr>
-  </tbody>
-</table>
+| <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span> </p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span> </p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span> </p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span> </p><p>Governance</p> |
+| :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|                                        :white_check_mark:                                        |                                         :white_check_mark:                                          |                                                                                                      |                                                                                                         |
 
 {% hint style="warning" %}
-MIM4 has progressed from Work Item to Capabilities stage after vote at the 2021 OASC GA \(Jun 2021\). The information on this page is being updated to reflect the progression.
+MIM4 has progressed from Work Item to Capabilities stage after vote at the 2021 OASC GA (Jun 2021). The information on this page is being updated to reflect the progression.
 {% endhint %}
 
-## Objectives <a id="MIM1:ContextInformationManagement-Goal"></a>
+## Objectives <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
-Citizen data is a key element in providing human-centric public services. MIM4 Personal Data Management \(PDM\) explores the mechanisms for personal data protection, transparency, and trust when sharing personal data between cities. These capabilities are a key part of the digital transformation journey of cities worldwide. 
+Citizen data is a key element in providing human-centric public services. MIM4 Personal Data Management (PDM) explores the mechanisms for personal data protection, transparency, and trust when sharing personal data between cities. These capabilities are a key part of the digital transformation journey of cities worldwide. 
 
 MIM4 PDM, consists of four layers, Personal Data Operator, personal data platforms, legal framework and technical specification. 
 
@@ -67,7 +34,7 @@ Personal Data Management needs to have an open API in line with MIM1 to broker d
 
 The PDM needs to be fully compatible with the GDPR and needs to enable users to handle consent, allow and revoke access, and have full transparency on their personal data. Permission management of consent management needs to be handled preferably on attribute level.
 
-The PDM needs to allow users to choose the operator of their data and have a completely free choice to move their data to the operator of their choosing.  
+The PDM needs to allow users to choose the operator of their data and have a completely free choice to move their data to the operator of their choosing.\
 It should allow the users to access their data regardless of the channel. So, there should be no wrong door to access the data.
 
 We want to move the management of personal data to the following manner, where decentralised management of data is enabled.
@@ -80,11 +47,10 @@ Cities and regions are perfect candidates to provide personalised data services 
 
 Citizens should be able to roam with their data between cities and internationally.
 
-## References <a id="MIM4:PersonalDataManagement-Recommendation"></a>
+## References <a href="mim4-personaldatamanagement-recommendation" id="mim4-personaldatamanagement-recommendation"></a>
 
 We have compiled all references that are an input to this MIM4 PDM on this page [References](references.md)
 
-## Specification <a id="MIM4:PersonalDataManagement-Recommendation"></a>
+## Specification <a href="mim4-personaldatamanagement-recommendation" id="mim4-personaldatamanagement-recommendation"></a>
 
 Under development - progress under references section.
-
