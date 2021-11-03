@@ -12,13 +12,13 @@ description: 'OASC MIM7: Places'
 
 ## Objectives <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
-Specifies how to share spatial (and spatio-temporal) data, make them interoperable with, within, and between systems and territories. This goes from static data about assets such as street lights, buildings, and streets to spatio-temporal data from sensors. The purpose of this Minimal Interoperability Mechanism (MIM) is to make this data and the way it is shared interoperable across cities, but also among stakeholders within the same city. This MIM will also provide input to [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md), in particular regarding data which has an explicit geospatial dimension.
+Specifies how to share spatial (and spatio-temporal) data, make them interoperable with, within, and between systems and territories. This goes from static data about assets such as street lights, buildings, and streets to spatio-temporal data from sensors. The purpose of this Minimal Interoperability Mechanism (MIM) is to make this data and the way it is shared interoperable across cities, but also among stakeholders within the same city. This MIM will also provide input to [MIM2 Data models](oasc-mim-2-data-models.md), in particular regarding data which has an explicit geospatial dimension.
 
 ## Capabilities
 
 Geospatial information contains comprehensive bi-dimensional, tri-dimensional and (when time is also involved) four-dimensional representation of real-world entities defined in a structured way. Different datasets can easily be combined based on location. In addition, powerful spatial analyses and sophisticated visualisation can be performed that provide important insights to different stakeholders in the city. It is therefore essential to include the geospatial data dimension into smart city information systems.
 
-The discovery, querying, retrieval, visualisation, and editing of geospatial information based on location and temporal criteria can be achieved through open standard formats, protocols and preferably through the use of standardised API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md).
+The discovery, querying, retrieval, visualisation, and editing of geospatial information based on location and temporal criteria can be achieved through open standard formats, protocols and preferably through the use of standardised API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data models](oasc-mim-2-data-models.md).
 
 ## Specifications <a href="mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
 
@@ -44,13 +44,13 @@ Those [OGC Web Services](https://www.ogc.org/standards/owc) standards follow the
 The new [OGC Web API family of standards](https://ogcapi.ogc.org/#standards) are built upon the legacy of the OGC Web Service standards to define resource-centric APIs that take advantage of modern web development practices. These new standards are web-friendly and are being constructed as "building blocks" that can be used to assemble novel APIs for web access to geospatial content. (The following OGC APIs are at a different stage of development: Features, Common, Maps, Records, Processes, Coverages, Tiles, Environmental Data Retrieval).
 
 * The [OGC SensorThings API](https://www.ogc.org/standards/sensorthings) standard provides an open source and uniform API to connect IoT devices, data and applications on the Web; it provides a standard way to manage and retrieve observations and metadata from IoT sensors built on the legacy of the OGC SOS and SPS. The SensorThings API standard supports both request-response and asynchronous transactions.
-* The [OGC API - Features](https://www.ogc.org/standards/ogcapi-features) standard provides a modular, encoding-agnostic and web-friendly means for the exposure of geospatial features on the web.  
+* The [OGC API - Features](https://www.ogc.org/standards/ogcapi-features) standard provides a modular, encoding-agnostic and web-friendly means for the exposure of geospatial features on the web. &#x20;
 
 \*\*\*\*
 
 ### Data encoding
 
-This section specifies data encodings for geospatial data that is also relevant for the provisions of [MIM2 Data models](../architecture-and-data-models/oasc-mim-2-data-models.md).
+This section specifies data encodings for geospatial data that is also relevant for the provisions of [MIM2 Data models](oasc-mim-2-data-models.md).
 
 * Semantic 3D city models or digital twins standards for representing the entities of cities and landscapes.
   * [CityGML](https://www.ogc.org/standards/citygml), an OGC open data model and XML-based format for the storage and exchange of virtual 3D city models
