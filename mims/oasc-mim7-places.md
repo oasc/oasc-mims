@@ -4,13 +4,13 @@ description: 'OASC MIM7: Places'
 
 # MIM7 - Places
 
-## Status <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Status <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
 | <p>💡</p><p>Work Item</p> | <p>🧩</p><p>Capabilities</p> | <p>🏗</p><p>Specification</p> | <p>👩⚖</p><p>Governance</p> |
 | ------------------------- | ---------------------------- | ----------------------------- | --------------------------- |
 | ✅                         |                              |                               |                             |
 
-## Objectives <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Objectives <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
 Specifies how to share spatial (and spatio-temporal) data, make them interoperable with, within, and between systems and territories. This goes from static data about assets such as street lights, buildings, and streets to spatio-temporal data from sensors. The purpose of this Minimal Interoperability Mechanism (MIM) is to make this data and the way it is shared interoperable across cities, but also among stakeholders within the same city. This MIM will also provide input to [MIM2 Data models](oasc-mim-2-data-models.md), in particular regarding data which has an explicit geospatial dimension.
 
@@ -20,7 +20,7 @@ Geospatial information contains comprehensive bi-dimensional, tri-dimensional an
 
 The discovery, querying, retrieval, visualisation, and editing of geospatial information based on location and temporal criteria can be achieved through open standard formats, protocols and preferably through the use of standardised API interfaces. Integrating context information with geospatial information can be enabled by the context management API and geospatial management API through common data information models defined in the [MIM2 Data models](oasc-mim-2-data-models.md).
 
-## Specifications <a href="mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
+## Specifications <a href="#mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
 
 The specifications that are subject to adoption are focussing on (i) web interfaces for discovery and access to data, and (ii) data encoding formats.
 
@@ -82,3 +82,14 @@ The [INSPIRE data specifications](https://inspire.ec.europa.eu/Technical-Guideli
 #### Validation
 
 An advantage of INSPIRE is the ability to validate metadata, services and data against the technical provisions listed above. To this end, the [INSPIRE reference validator](https://inspire.ec.europa.eu/validator/), fully based on open source components, is being used. Local instances of the tool can be deployed within the cities own infrastructures in addition to the centrally available solution.
+
+
+
+## MIM7 Working Group  <a href="#mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
+
+Representatives of the following organisations:&#x20;
+
+* INSPIRE, Open Geospatial Consortium (OGC)
+* Cities of Athens, Gothenburg, Swedish Association of Local Authorities and Regions (SALAR), Vienna
+* European Commission: DG Connect and DG Digit
+* Companies: ATOS, Engineering, NEC

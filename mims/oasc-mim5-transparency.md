@@ -4,20 +4,20 @@ description: 'OASC MIM5: Fair and Transparent Artificial Intelligence'
 
 # MIM5 - Transparency
 
-## Status <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Status <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
 | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span> </p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span> </p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span> </p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span> </p><p>Governance</p> |
 | :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|                                        :white_check_mark:                                        |                                         :white_check_mark:                                          |                                                                                                      |                                                                                                         |
+|                                       :white\_check\_mark:                                       |                                        :white\_check\_mark:                                         |                                                                                                      |                                                                                                         |
 
 ## Objectives
 
 \
-Governments, including local governments, are increasingly seeking to capture the opportunities offered by automated decision-making using algorithmic systems, to improve their services. However, government agencies and the general public have justified concerns over bias, privacy, accountability, and transparency of such automated decision-making processes. New examples continue to emerge of potential negative consequences from the inappropriate use of (‘black box’) algorithms. 
+Governments, including local governments, are increasingly seeking to capture the opportunities offered by automated decision-making using algorithmic systems, to improve their services. However, government agencies and the general public have justified concerns over bias, privacy, accountability, and transparency of such automated decision-making processes. New examples continue to emerge of potential negative consequences from the inappropriate use of (‘black box’) algorithms.&#x20;
 
 Here we define "Algorithmic System" as: "software that automatically makes predictions, makes decisions and/or gives advice by using data analysis, statistics and/or self-learning logic."
 
-An automated decision-making algorithmic system does not necessarily require any form of self-learning logic (such as machine learning). In actual practice, software is often used that does not contain any self-learning logic, but the application of which may have great and sometimes unknown or unintended impact on citizens. 
+An automated decision-making algorithmic system does not necessarily require any form of self-learning logic (such as machine learning). In actual practice, software is often used that does not contain any self-learning logic, but the application of which may have great and sometimes unknown or unintended impact on citizens.&#x20;
 
 To provide citizens and governments at all levels with a proper process to mitigate risk, Amsterdam city council, along with some other cities, proposed the Fair AI MIM 5 as part of their work to develop a European norm for procurement rules for government agencies to use when procuring algorithmic systems to support automated decision-making. Alongside this, guidance is being developed in different global regions regarding the actions that government agencies themselves need to take to assess the level of impact and to make sure that automated decision-making is trusted, fair and transparent. This will include providing channels for citizens to query the decision-making process and involving citizens in co-designing the algorithmic systems. Most importantly there is the need to ensure that the data used by those systems is accurate and appropriate e.g. through publicly available algorithmic registries.
 
@@ -66,10 +66,21 @@ Technically, these capabilities can be translated into a metadata API that every
 
 
 
-## Specifications <a href="mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
+## Specifications <a href="#mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
 
-Standard Clauses For Procurement Of Trustworthy Algorithmic Systems:  [https://www.amsterdam.nl/innovatie/digitalisering-technologie/contractual-terms-for-algorithms/](https://www.amsterdam.nl/innovatie/digitalisering-technologie/contractual-terms-for-algorithms/) 
+Standard Clauses For Procurement Of Trustworthy Algorithmic Systems:  [https://www.amsterdam.nl/innovatie/digitalisering-technologie/contractual-terms-for-algorithms/](https://www.amsterdam.nl/innovatie/digitalisering-technologie/contractual-terms-for-algorithms/)&#x20;
 
-White Paper on Public AI Registers: [https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf](https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf) 
+White Paper on Public AI Registers: [https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf](https://algoritmeregister.amsterdam.nl/wp-content/uploads/White-Paper.pdf)&#x20;
 
-Deliverables of the European Commission AI High-Level Expert Group (AI HLEG): [https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai](https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai) 
+Deliverables of the European Commission AI High-Level Expert Group (AI HLEG): [https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai](https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai)&#x20;
+
+
+
+## MIM5 Working Group  <a href="#mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
+
+Representatives of the following organisations:&#x20;
+
+* Cities of Athens, Amsterdam, Barcelona,&#x20;
+* European Commission: DG Connect and DG Digit
+* Companies: ATOS, Engineering, NEC
+
