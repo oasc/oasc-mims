@@ -20,8 +20,8 @@
 [oasc-mim-2-data-models.md](mims/oasc-mim-2-data-models.md)
 {% endcontent-ref %}
 
-{% content-ref url="mims/oasc-mim-3-contracts.md" %}
-[oasc-mim-3-contracts.md](mims/oasc-mim-3-contracts.md)
+{% content-ref url="mims/oasc-mim-3-contracts/" %}
+[oasc-mim-3-contracts](mims/oasc-mim-3-contracts/)
 {% endcontent-ref %}
 
 {% content-ref url="mims/oasc-mim4-trust/" %}
@@ -79,8 +79,3 @@
 {% content-ref url="resources/living-in.eu-mims-plus.md" %}
 [living-in.eu-mims-plus.md](resources/living-in.eu-mims-plus.md)
 {% endcontent-ref %}
-
-
-
-
-

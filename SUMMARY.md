@@ -11,7 +11,8 @@
 
 * [MIM1 - Context](mims/oasc-mim-1-context.md)
 * [MIM2 - Data Models](mims/oasc-mim-2-data-models.md)
-* [MIM3 - Contracts](mims/oasc-mim-3-contracts.md)
+* [MIM3 - Contracts\*](mims/oasc-mim-3-contracts/README.md)
+  * [Annex: SynchroniCity Functional modules\*](mims/oasc-mim-3-contracts/annex-synchronicity-functional-modules.md)
 * [MIM4 - Trust](mims/oasc-mim4-trust/README.md)
   * [References](mims/oasc-mim4-trust/references.md)
 * [MIM5 - Transparency](mims/oasc-mim5-transparency.md)
@@ -21,9 +22,7 @@
 * [MIM9 - Analytics](mims/oasc-mim9-analytics.md)
 * [MIM10 - Resources](mims/oasc-mim10-resources.md)
 
-## OASC Working Groups
-
-## Resources (work in progress) <a href="resources" id="resources"></a>
+## Resources (work in progress) <a href="#resources" id="resources"></a>
 
 * [CITYxCITY Academy](resources/oasc-mims-resources-for-managers.md)
 * [CITYxCITY Standards Library](resources/oasc-mims-resources-for-developers.md)
