@@ -82,4 +82,26 @@ An open-source implementation of these capabilities can be found in FIWARE (Busi
 
 ![(annotated diagram provided by the CTO of Fiware.org)](../../.gitbook/assets/MIM3-TechnologyBuildingBlocks.png)
 
-1. Investigate and build links with other initiatives that are implementing data spaces/data marketplaces such as the Indian Urban Data Xchange to understand any additional specifications that could be added in the next edition of MIM3.
+2\. Investigate and build links with other initiatives that are implementing data spaces/data marketplaces such as the Indian Urban Data Xchange to understand any additional specifications that could be added in the next edition of MIM3.
+
+3\. Undertake customer journeys of the key types of stakeholders in local data ecosystem or data spaces to identify the key requirements needed. Actors (not yet fully fledged Personas) in a Marketplace include:
+
+* Government
+* Private Companies
+* Academia
+* Civil Society
+* Environment (proxy)
+
+This work will enable us to review the existing list of capabilities to:
+
+* See if there are any missing capabilities
+* Better define the capabilities
+* Prioritise the capabilities into required and recommended
+
+4\. Undertake a deep dive on the Catalogue Management capability as an example of what is needed for all of the capabilities within MIM3 longer term. Identify what APIs and other solutions exist that can meet those requirements, identify any gaps and then work to fill those gaps with, for example new or modified APIs.
+
+After Catalogue management the probable order to implement (and therefore describe) is:
+
+1. Publication & Discovery services (nothing useful in the catalogue without these) + Customer management - phase 2 adds Transparency and accountability & Federation management
+2. Marketplace services (or we won't have a transaction - Ordering / Offers/Orders management + description of data license & quality & SLA)
+3. Data Usage & Accounting (revenue)
