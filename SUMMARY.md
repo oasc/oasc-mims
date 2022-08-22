@@ -18,7 +18,7 @@
 * [MIM5 - Transparency\*](mims/oasc-mim5-transparency/README.md)
   * [References](mims/oasc-mim5-transparency/references.md)
 * [MIM6 - Security](mims/oasc-mim6-security.md)
-* [MIM7 - Places](mims/oasc-mim7-places.md)
+* [MIM7 - Places\*](mims/oasc-mim7-places.md)
 * [MIM8 - Indicators](mims/oasc-mim8-indicators.md)
 * [MIM9 - Analytics](mims/oasc-mim9-analytics.md)
 * [MIM10 - Resources](mims/oasc-mim10-resources.md)

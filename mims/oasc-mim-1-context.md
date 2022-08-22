@@ -4,17 +4,17 @@ description: 'OASC MIM1: Context Information Management'
 
 # MIM1 - Context
 
-## Status <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Status <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
-| <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span> </p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span> </p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span> </p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span> </p><p>Governance</p> |  >  |  >  |  >  |
-| :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-: | :-: | :-: |
-|                                        :white_check_mark:                                        |                                          :white_check_mark:                                         |                                          :white_check_mark:                                          |                                            :white_check_mark:                                           |     |     |     |
+| <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span></p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span></p><p>Governance</p> |
+| :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+|                                       :white\_check\_mark:                                      |                                        :white\_check\_mark:                                        |                                         :white\_check\_mark:                                        |                                          :white\_check\_mark:                                          |
 
-## Objectives <a href="mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Objectives <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
 
 Context information management ensures comprehensive and integrated access, use, sharing, and management of data across different solutions and purposes. It manages the context information coming from Internet of Things (IoT) devices and other public and private data sources providing cross cutting context data and access through a uniform interface.
 
-## Capabilities <a href="mim1-contextinformationmanagement-capabilities" id="mim1-contextinformationmanagement-capabilities"></a>
+## Capabilities <a href="#mim1-contextinformationmanagement-capabilities" id="mim1-contextinformationmanagement-capabilities"></a>
 
 Context information contains comprehensive status information about real-world entities defined in a structured way with formal definitions and provides functionalities to enable access to different data sources and analyse context information, e.g. for detecting events.
 
@@ -28,15 +28,15 @@ Applications can subscribe to changes of information so that they are always awa
 
 The implementation across (and even within) the city, or any application ecosystem, can be very diverse and heterogeneous. An agreement on the interfaces is necessary to be able to access the information. This is enabled by the context management API and the data information models.
 
-## Specifications <a href="mim1-contextinformationmanagement-recommendation" id="mim1-contextinformationmanagement-recommendation"></a>
+## Specifications <a href="#mim1-contextinformationmanagement-recommendation" id="mim1-contextinformationmanagement-recommendation"></a>
 
-All documents and deliverables can be found 
+All documents and deliverables can be found
 
 | **Standard**     | Aspect                  | **Reference**                                                                |
 | ---------------- | ----------------------- | ---------------------------------------------------------------------------- |
 | **ETSI NGSI-LD** | **Group Specification** | [**https://www.etsi.org/comittee/cim**](https://www.etsi.org/committee/cim/) |
 
-## ETSI NGSI-LD Reference Implementations <a href="mim1-contextinformationmanagement-etsingsi-ldreferenceimplementations" id="mim1-contextinformationmanagement-etsingsi-ldreferenceimplementations"></a>
+## ETSI NGSI-LD Reference Implementations <a href="#mim1-contextinformationmanagement-etsingsi-ldreferenceimplementations" id="mim1-contextinformationmanagement-etsingsi-ldreferenceimplementations"></a>
 
 The below table lists reference implementations of the NGSI standard known to OASC. If you are aware of other reference implementations please share them in the comments section.
 
