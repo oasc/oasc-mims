@@ -72,8 +72,8 @@
 [oasc-mims-resources-for-managers.md](resources/oasc-mims-resources-for-managers.md)
 {% endcontent-ref %}
 
-{% content-ref url="resources/oasc-mims-resources-for-developers.md" %}
-[oasc-mims-resources-for-developers.md](resources/oasc-mims-resources-for-developers.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="resources/living-in.eu-mims-plus.md" %}

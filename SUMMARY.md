@@ -23,10 +23,9 @@
 * [MIM9 - Analytics](mims/oasc-mim9-analytics.md)
 * [MIM10 - Resources](mims/oasc-mim10-resources.md)
 
-## Resources (work in progress) <a href="#resources" id="resources"></a>
+## Resources
 
 * [CITYxCITY Academy](resources/oasc-mims-resources-for-managers.md)
-* [CITYxCITY Standards Library](resources/oasc-mims-resources-for-developers.md)
 * [CITYxCITY Catalogue](resources/cityxcity-catalogue.md)
 * [CITYxCITY Festival](resources/cityxcity-festival.md)
 * [LIVING-IN.EU MIMs Plus](resources/living-in.eu-mims-plus.md)
