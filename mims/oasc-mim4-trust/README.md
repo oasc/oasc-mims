@@ -107,7 +107,7 @@ While designed for the MyData network, the MIM4 proposal has now been reviewed i
 
 This review indicated that the proposed interoperability mechanism is a feasible way of enabling a level of interoperability between all of these and is likely to be relevant to all Personal Data Management solutions. All of the above initiatives have also agreed to work together over the next few months to develop demos to test the proposed MIM4 Part 1 in practice.
 
-## MIM4 Working Group members <a href="#mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
+## MIM4 Working Group members <a href="#mim4-working-group-members" id="mim4-working-group-members"></a>
 
 Representatives of the following organisations:
 
