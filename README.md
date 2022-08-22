@@ -28,8 +28,8 @@
 [oasc-mim4-trust](mims/oasc-mim4-trust/)
 {% endcontent-ref %}
 
-{% content-ref url="mims/oasc-mim5-transparency.md" %}
-[oasc-mim5-transparency.md](mims/oasc-mim5-transparency.md)
+{% content-ref url="mims/oasc-mim5-transparency/" %}
+[oasc-mim5-transparency](mims/oasc-mim5-transparency/)
 {% endcontent-ref %}
 
 {% content-ref url="mims/oasc-mim6-security.md" %}
@@ -58,8 +58,8 @@
 [oasc-mim4-trust](mims/oasc-mim4-trust/)
 {% endcontent-ref %}
 
-{% content-ref url="mims/oasc-mim5-transparency.md" %}
-[oasc-mim5-transparency.md](mims/oasc-mim5-transparency.md)
+{% content-ref url="mims/oasc-mim5-transparency/" %}
+[oasc-mim5-transparency](mims/oasc-mim5-transparency/)
 {% endcontent-ref %}
 
 {% content-ref url="mims/oasc-mim7-places.md" %}
