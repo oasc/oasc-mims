@@ -4,11 +4,7 @@ description: OASC Minimal Interoperability Mechanisms
 
 # Introduction
 
-{% hint style="info" %}
-All information currently being updated following 2021 OASC General Assembly. Please bear with us whilst we process all changes and decisions.
-{% endhint %}
-
-**OASC MIMs** ([mims.oasc.io](http://mims.oasc.io)) support institutional capacity development for connected places in a changing world.
+**OASC MIMs** support institutional capacity development for connected places in a changing world.
 
 {% embed url="https://www.youtube.com/watch?v=DayKYPyEzwQ&ab_channel=Open%26AgileSmartCities" %}
 OASC MIMs: the 2 minute version
@@ -22,15 +18,15 @@ Implementation can be different, as long as crucial interoperability points in a
 
 **Currently the following MIMs have been formally adopted by all OASC members:**
 
-| MIM                                                |                                                 Status                                                 | Name         | Short description                 | Standards and Baselines                                                                                                  |
-| -------------------------------------------------- | :----------------------------------------------------------------------------------------------------: | ------------ | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [**OASC MIM1**](../mims/oasc-mim-1-context.md)     | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span></p><p>Governance</p> | Context      | Context Information Management    | <p><code>ETSI NGSI-LD</code><br><code>ITU-T SG20 DPM</code></p><p><code>MIMS+</code></p>                                 |
-| [**OASC MIM2**](../mims/oasc-mim-2-data-models.md) |   <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p>  | Data Models  | Shared Data Models                | <p><code>SmartDataModels</code><br><code>DTDL</code><br><code>ORM</code><br><code>GTFS</code></p><p><code>...</code></p> |
-| [**OASC MIM3**](../mims/oasc-mim-3-contracts/)     |   <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p>  | Contracts    | Ecosystem Transactions Management | <p><code>TMF Open APIs</code></p><p><code>OMG LETS*</code></p>                                                           |
-| [**OASC MIM4**](../mims/oasc-mim4-trust/)          |     <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span><br>Capabilities</p>    | Trust        | Personal Data Management          |                                                                                                                          |
-| [**OASC MIM5**](../mims/oasc-mim5-transparency/)   |   <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span></p><p>Capabilities</p>   | Transparency | Fair Artificial Intelligence      |                                                                                                                          |
-| [**OASC MIM6**](../mims/oasc-mim6-security.md)     |      <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span><br>Work item</p>      | Security     | Security management               |                                                                                                                          |
-| [**OASC MIM7**](../mims/oasc-mim7-places.md)       |     <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></p><p>Work item</p>    | Places       | Geospatial information management |                                                                                                                          |
-| [**OASC MIM8**](../mims/oasc-mim8-indicators.md)   |     <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></p><p>Work item</p>    | Indicators   | Ecosystem indicator management    |                                                                                                                          |
-| [**OASC MIM9**](../mims/oasc-mim9-analytics.md)    |      <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span><br>Work item</p>      | Analytics    | Data Analytics Management         |                                                                                                                          |
-| [**OASC MIM10**](../mims/oasc-mim10-resources.md)  |      <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span><br>Work item</p>      | Resources    | Resource Impact Assessment        |                                                                                                                          |
+| MIM                                                |                                                 Status                                                 | Name         | Short description                 | Standards and Baselines                           |
+| -------------------------------------------------- | :----------------------------------------------------------------------------------------------------: | ------------ | --------------------------------- | ------------------------------------------------- |
+| [**OASC MIM1**](../mims/oasc-mim-1-context.md)     | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span></p><p>Governance</p> | Context      | Context Information Management    | <p>ETSI NGSI-LD<br>ITU-T SG20 DPM</p><p>MIMS+</p> |
+| [**OASC MIM2**](../mims/oasc-mim-2-data-models.md) |   <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p>  | Data Models  | Shared Data Models                | <p>SmartDataModels<br>DTDL<br>ORM<br>GTFS</p>     |
+| [**OASC MIM3**](../mims/oasc-mim-3-contracts/)     |   <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p>  | Contracts    | Ecosystem Transactions Management | <p>TMF Open APIs</p><p>OMG LETS</p>               |
+| [**OASC MIM4**](../mims/oasc-mim4-trust/)          |     <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span><br>Capabilities</p>    | Trust        | Personal Data Management          |                                                   |
+| [**OASC MIM5**](../mims/oasc-mim5-transparency/)   |   <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span></p><p>Capabilities</p>   | Transparency | Fair Artificial Intelligence      |                                                   |
+| [**OASC MIM6**](../mims/oasc-mim6-security.md)     |      <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span><br>Work item</p>      | Security     | Security management               |                                                   |
+| [**OASC MIM7**](../mims/oasc-mim7-places.md)       |     <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></p><p>Work item</p>    | Places       | Geospatial information management |                                                   |
+| [**OASC MIM8**](../mims/oasc-mim8-indicators.md)   |     <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></p><p>Work item</p>    | Indicators   | Ecosystem indicator management    |                                                   |
+| [**OASC MIM9**](../mims/oasc-mim9-analytics.md)    |      <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span><br>Work item</p>      | Analytics    | Data Analytics Management         |                                                   |
+| [**OASC MIM10**](../mims/oasc-mim10-resources.md)  |      <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span><br>Work item</p>      | Resources    | Resource Impact Assessment        |                                                   |

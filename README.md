@@ -1,5 +1,9 @@
 # Overview
 
+{% hint style="info" %}
+All information has been updated following the OASC Annual Summit June 7th 2022
+{% endhint %}
+
 ## Basics
 
 {% content-ref url="basics/oasc-mims-introduction.md" %}
