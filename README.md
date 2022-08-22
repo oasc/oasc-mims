@@ -76,8 +76,12 @@ All information has been updated following the OASC Annual Summit June 7th 2022
 [oasc-mims-resources-for-managers.md](resources/oasc-mims-resources-for-managers.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="resources/cityxcity-catalogue.md" %}
+[cityxcity-catalogue.md](resources/cityxcity-catalogue.md)
+{% endcontent-ref %}
+
+{% content-ref url="resources/cityxcity-festival.md" %}
+[cityxcity-festival.md](resources/cityxcity-festival.md)
 {% endcontent-ref %}
 
 {% content-ref url="resources/living-in.eu-mims-plus.md" %}
