@@ -115,7 +115,7 @@ Representatives of the following organisations:
 * European Commission: DG Connect and DG Digit.
 * Companies: ATOS, Engineering, NEC, Vastuu Group.
 
-## Recommendations approved by the OASC Annual Summit on June 7th 2022:
+## Recommendations approved at the OASC Annual Summit on June 7th 2022:
 
 * To approve the proposed MIM4 technical specifications.
 * To agree the development of the legal framework should be completed to bring to the Annual Summit in 2023 for agreement.

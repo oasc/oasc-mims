@@ -57,7 +57,7 @@ Representatives of the following organisations and initiatives:
 * Cities of Athens, Gothenburg, Swedish Association of Local Authorities and Regions (SALAR), Vienna.
 * European Commission: DG Connect, DG Digit and DG JRC.
 
-## Recommendations approved by the OASC Annual Summit on June 7th 2022:
+## Recommendations approved at the OASC Annual Summit on June 7th 2022:
 
 * To agree that MIM7 be developed as a series of Parts, each focusing on a particular aspect of geo-temporal data.
 * To agree the proposed updated technical specifications for MIM7 Part 1 and for a programme of testing and review to be carried out in the new work year.
