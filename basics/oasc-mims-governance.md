@@ -27,16 +27,16 @@ OASC members **formally adopt, endorse, support, and advance** the Minimal Inter
 [**Open & Agile Smart Cities vzw**](http://www.ejustice.just.fgov.be/tsv\_pdf/2017/12/21/17329012.pdf) is a not-for-profit organisation under Belgian law, based in Brussels. The organisation consists of following bodies:
 
 **General Assembly (GA)**\
-\*\*\*\*The GA is constituted by all voting governing entities of the organisation, being the Core Partners and the Members. The GA decides on the introduction or status change of MIMs.
+The GA is constituted by all voting governing entities of the organisation, being the Core Partners and the Members. The GA decides on the introduction or status change of MIMs.
 
 **Council of Cities (CoC)**\
-\*\*\*\*The CoC represents all members through their locally elected Chapter Coordinator. The CoC is chaired by the Council Coordinator and Vice-Coordinator, who can be any member and are elected by the CoC members.
+The CoC represents all members through their locally elected Chapter Coordinator. The CoC is chaired by the Council Coordinator and Vice-Coordinator, who can be any member and are elected by the CoC members.
 
 **Board of Directors (BoD)**\
-\*\*\*\*The BoD is elected by the BoD members, constituted by Core Partners and Member Representatives to the BoD as voting members, and the CEO as ex-officio, non-voting member.
+The BoD is elected by the BoD members, constituted by Core Partners and Member Representatives to the BoD as voting members, and the CEO as ex-officio, non-voting member.
 
 **Headquarters (HQ)**\
-\*\*\*\*HQ is led by the CEO who is appointed by the BoD. The CEO defines and implements the strategy of OASC under the vision and guidance of the BoD. The HQ oasc\_tech team consists of senior technical advisors and runs technical operations under direction of the CEO, who is assisted by the Architecture and Standards Manager and the Technology Ecosystem Manager.
+HQ is led by the CEO who is appointed by the BoD. The CEO defines and implements the strategy of OASC under the vision and guidance of the BoD. The HQ oasc\_tech team consists of senior technical advisors and runs technical operations under direction of the CEO, who is assisted by the Architecture and Standards Manager and the Technology Ecosystem Manager.
 
 **Technology Council (TC)**\
 \*\*\*\*The TC helps HQ oasc\_tech, steers and validates the work of the WGs, and advises the CoC on technological matters. The TC consists of independent technology experts across a variety of fields and organisations. TC members are selected based on competence, might have an industry function, act only in an advisory capacity, and never represent a single commercial or competitive interest.
@@ -76,7 +76,7 @@ After provisional endorsement by the BoD, the finalised proposal for the new MIM
 
 {% tab title="Capabilities >" %}
 :jigsaw:\
-The work on the MIM is presented to the CoC and BoD, and offered as a vote item at the GA. By voting favourably, the GA elevates the status from 'Work Item' to an official OASC MIM that can be used by cities and solution providers in various contexts to achieve interoperability.
+The work on the MIM is presented to the CoC and BoD, and offered as a vote item at the GA. By voting favourably, the GA elevates the status from 'Work Item' to an official OASC MIM to be further specified and validated..
 {% endtab %}
 
 {% tab title="Specification >" %}

@@ -37,7 +37,3 @@ Harmonization across data models help in supporting different data models again 
 * Core vocabularies of ISA like Core Public Service Vocabulary Application Profile used as the basis for the Single Digital Gateway Regulation that touches local governments, Core Person, Core Organization etc
 * DTDL is the Digital twin Definition Language developed by Microsoft. This language is based on top op json-ld and the existing Fiware data models are converted in this format.
 * For spatial (and spatio-tempopral) observation data the provisions of [MIM-7 (Places)](oasc-mim7-places.md) about data encoding have to be taken into consideration.
-
-{% hint style="info" %}
-Unfinished page
-{% endhint %}

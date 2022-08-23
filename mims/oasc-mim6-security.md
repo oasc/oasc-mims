@@ -10,7 +10,7 @@ description: 'OASC MIM6: Security Management'
 | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 |                                       :white\_check\_mark:                                      |                                                                                                    |                                                                                                     |                                                                                                        |
 
-## Objectives <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Objectives <a href="#mim6-objectives" id="mim6-objectives"></a>
 
 As cities become smarter and more technology-driven, they become a target for cyber attacks with significant consequences in terms of costs and loss of services. In order to deliver reliable digital services for citizens, cities have to continuously evaluate the cyber risks and to put in place security measures to prepare for cyber attacks.
 
