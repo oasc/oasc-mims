@@ -2,15 +2,15 @@
 description: 'OASC MIM3: Ecosystem Transactions Management'
 ---
 
-# MIM3 - Contracts\*
+# MIM3 - Contracts
 
-## Status <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Status
 
 | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span><br>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span></p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span></p><p>Governance</p> |
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 |                                     :white\_check\_mark:                                     |                                        :white\_check\_mark:                                        |                                         :white\_check\_mark:                                        |                                                                                                        |
 
-## Objectives <a href="#mim3-ecosystemtransactionmanagement-goals" id="mim3-ecosystemtransactionmanagement-goals"></a>
+## Objectives
 
 Scaling of data services, including IoT- and AI-enabled services, within cities and communities requires easy and risk-free access to suitable local data sources that are already within those communities. A local data marketplace allows for easy and risk-free access to relevant and available local data, solutions, and other resources so that new and valuable services and solutions, many of which have been already deployed in other cities can easily be implemented within the local area. The use and re-use realizes new societal values, including new revenue streams, incentivising the stakeholders, including infrastructure owners, to share data, analytics, services and/or solutions in infrastructure partnerships based on key technology enablers.
 
@@ -20,7 +20,7 @@ MIM3 is the management layer that allows stakeholders:
 * To provide data processing services along with relevant information and terms and conditions for using the services.
 * &#x20;To find and access the data and data processing services and other services they need and to be able to gain relevant insights into what those data streams/data processing services/data applications consist of and how valuable they can be.
 
-## Capabilities <a href="#mim3-ecosystemtransactionmanagement-capabilities" id="mim3-ecosystemtransactionmanagement-capabilities"></a>
+## Capabilities
 
 The marketplace realises standardised exposure of data and data set offerings built on standard interoperability mechanisms (e.g., those result of combining MIM1 and MIM2) and mechanisms for guaranteeing security and privacy by design. The marketplace also realises access to services offerings that build on this data and transfer it to knowledge, intelligence, and information for the consumers.
 
@@ -54,7 +54,7 @@ _With the term “data service” we include both data access and data processin
 
 There are various ways to realise such Ecosystem Transaction Management. A standardised way of doing so is provided by TM Forum, who has created an API suite of specifications for digital marketplaces, named the Business API Ecosystem.
 
-## Specifications <a href="#mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
+## Specifications
 
 **Recommended specifications:**
 

@@ -2,9 +2,9 @@
 description: 'OASC MIM5: Fair and Transparent Artificial Intelligence'
 ---
 
-# MIM5 - Transparency\*
+# MIM5 - Transparency
 
-## Status <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Status
 
 | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span></p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span></p><p>Governance</p> |
 | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
@@ -118,7 +118,7 @@ b. Then identify/develop a set of APIs that can automatically check whether a de
 
 In addition, it would be important to link with European implementation timetable. In about one and half years there will be many cities needing support in Europe. Funding will be available for toolboxes in the coming few months. Knowing this, some preparation work could be done to help use these opportunities in the best way to build on the work being done on MIM5. One possible option would be to put together a paper on what is needed to complement the toolbox.
 
-## MIM5 Working Group members <a href="#mim3-ecosystemtransactionmanagement-recommendedspecifications" id="mim3-ecosystemtransactionmanagement-recommendedspecifications"></a>
+## MIM5 Working Group members
 
 Representatives of the following organisations:
 

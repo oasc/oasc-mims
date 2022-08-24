@@ -2,15 +2,15 @@
 description: 'OASC MIM7: Places'
 ---
 
-# MIM7 - Places\*
+# MIM7 - Places
 
-## Status <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Status
 
 | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span></p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span></p><p>Governance</p> |
 | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 |                                       :white\_check\_mark:                                      |                                        :white\_check\_mark:                                        |                                                                                                     |                                                                                                        |
 
-## Background <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Background
 
 MIM7 aims to provide Minimal Interoperability Mechanisms related to geo-temporal data. However, there are many existing geo-temporal data standards that are of relevance to cities and to propose the full list would not be compatible with the concept of MIMs. MIM7 is therefore being developed as a number of parts.
 
@@ -18,7 +18,7 @@ During the work on MIM7 it has become clear that there are considerable inconsis
 
 MIM7 Part 1 has been developed to address this issue.
 
-## Requirements and Recommendations <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Requirements and Recommendations
 
 **MIM7 Part 1** comprises two minimal requirements and two recommendations. Aligned with the Rules for the structure and drafting of International Standards endorsed by the ISO and OGC OGC (see sub-clause 5.3 of \[OGC 06-121r9]). The verb form “shall” indicates a requirement to be strictly followed to conform to this MIM. Recommendations, in turn, are based on good practices and ‘should’ not be strictly followed.
 

@@ -2,15 +2,15 @@
 description: 'OASC MIM4: Personal Data Management'
 ---
 
-# MIM4 - Trust\*
+# MIM4 - Trust
 
-## Status <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Status
 
 | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f4a1">💡</span></p><p>Work Item</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f9e9">🧩</span></p><p>Capabilities</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f3d7">🏗</span></p><p>Specification</p> | <p><span data-gb-custom-inline data-tag="emoji" data-code="1f469-2696">👩⚖</span></p><p>Governance</p> |
 | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 |                                       :white\_check\_mark:                                      |                                        :white\_check\_mark:                                        |                                                                                                     |                                                                                                        |
 
-## Background <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Background
 
 MIM4 focuses on Personal Data Management in other words how to provide easy to use methods for citizens/users to control which data sets/attributes they want to share with solution, application, or service providers under transparent circumstances, enabling trust between the different parties.
 
@@ -24,7 +24,7 @@ There are a number of initiatives outside of these networks developing their own
 
 The role of MIM4 is to identify the key capabilities required and identify pivotal points of interoperability between the different solutions to help build confidence and support implementation.
 
-## Objectives <a href="#mim1-contextinformationmanagement-goal" id="mim1-contextinformationmanagement-goal"></a>
+## Objectives
 
 To provide technical and other guidance to support cities and communities to put in place the products and services that will enable their citizens to be in control of their personal data within the local data ecosystem.
 
@@ -89,7 +89,7 @@ The detail of how to do this will be dealt with by MIM6.
 
 13\. PDM systems need to be flexible enough to handle methodologies that require personal data pods to store the data as well as those that utilise personal data spaces or that allow the data to continue to be stored by the relevant organisation, but where the subject of the data is able to exercise rights as to its use.
 
-## Requirements <a href="#mim4-personaldatamanagement-recommendation" id="mim4-personaldatamanagement-recommendation"></a>
+## Requirements
 
 A detailed proposal for interoperability between Personal Data Management Operators was proposed to OASC in May 2021. This proposal has two pillars:
 
@@ -107,7 +107,7 @@ While designed for the MyData network, the MIM4 proposal has now been reviewed i
 
 This review indicated that the proposed interoperability mechanism is a feasible way of enabling a level of interoperability between all of these and is likely to be relevant to all Personal Data Management solutions. All of the above initiatives have also agreed to work together over the next few months to develop demos to test the proposed MIM4 Part 1 in practice.
 
-## MIM4 Working Group members <a href="#mim4-working-group-members" id="mim4-working-group-members"></a>
+## MIM4 Working Group members
 
 Representatives of the following organisations:
 
