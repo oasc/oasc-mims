@@ -1,7 +1,7 @@
 # Overview
 
 {% hint style="info" %}
-All information here relates to the MIMs version 2022, which continues to be valid. This will eventually be replaced by the newer version of the MIMs that is being worked on now. For information on the revisions and to access the drafts of the newer versions of MIMs 1, 2, 4 & 7 [click here](https://oascities.org/wp-content/uploads/2023/07/Google-Doc-on-MIMs-July-2023.docx.pdf).
+All information here relates to the MIMs version 2022, which continues to be valid. This will eventually be replaced by the newer version of the MIMs that is being worked on now. For information on the revisions and to access the drafts of the newer versions of MIMs 1, 2, 4 & 7 [click here](https://docs.google.com/document/d/1nC5wSulop4Ig5xWtZ4nsmfbMs4mfc1eQ/edit?usp=sharing\&ouid=114211767408858427688\&rtpof=true\&sd=true).
 {% endhint %}
 
 ## Basics
