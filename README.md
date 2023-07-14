@@ -1,7 +1,7 @@
 # Overview
 
 {% hint style="info" %}
-All information has been updated following the OASC Annual Summit June 7th 2022
+All information here relates to the MIMs version 2022, which continues to be valid. This will eventually be replaced by the newer version of the MIMs that is being worked on now. For information on the revisions and to access the drafts of the newer versions of MIMs 1, 2, 4 & 7 [click here](https://oascities.org/wp-content/uploads/2023/07/Google-Doc-on-MIMs-July-2023.docx.pdf).
 {% endhint %}
 
 ## Basics
