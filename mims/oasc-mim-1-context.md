@@ -14,6 +14,8 @@ description: 'OASC MIM1: Context Information Management'
 
 Context information management ensures comprehensive and integrated access, use, sharing, and management of data across different solutions and purposes. It manages the context information coming from Internet of Things (IoT) devices and other public and private data sources providing cross cutting context data and access through a uniform interface.
 
+This objective is currently being reviewed
+
 ## Capabilities
 
 Context information contains comprehensive status information about real-world entities defined in a structured way with formal definitions and provides functionalities to enable access to different data sources and analyse context information, e.g. for detecting events.
