@@ -9,7 +9,7 @@
 
 ## MIMs
 
-* [MIM1 - Context](mims/oasc-mim-1-context.md)
+* [MIM1 - Context Information](mims/oasc-mim-1-context.md)
 * [MIM2 - Data Models](mims/oasc-mim-2-data-models.md)
 * [MIM3 - Contracts](mims/oasc-mim-3-contracts/README.md)
   * [Annex: SynchroniCity Functional modules\*](mims/oasc-mim-3-contracts/annex-synchronicity-functional-modules.md)
